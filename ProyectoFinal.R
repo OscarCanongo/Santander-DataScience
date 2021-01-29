@@ -1,5 +1,5 @@
 #Poner ruta propia
-covid <- read.csv("~/Desktop/Santander-DataScience/Data/Covid.csv")
+covid <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/Covid.csv")
 h1n1 <- read.csv("~/Desktop/Santander-DataScience/Data/H1N1.csv")
 ebola <- read.csv("~/Desktop/Santander-DataScience/Data/ebola.csv")
 
@@ -23,5 +23,24 @@ Coronavirus <- COVID %>%
                  summarise(totales = sum(casos)       # Sumamos los casos totales
                )
 
-df_mapa<- readOGR("~/Desktop/Santander-DataScience/shp_mapa_paises_mundo_2014/Mapa_paises_mundo.shp")
+df_mapa<- st_read("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/shp_mapa_paises_mundo_2014/Mapa_paises_mundo.shp")
 
+df_mapa %>%
+  ggplot() + # Crea un objeto ggplot a partir del objeto mex_map
+  geom_sf() # agrega una capa con el mapa
+
+df_mapa
+
+map_covid <- df_mapa %>%
+  # unir tablas
+  left_join(Coronavirus,
+            # indicar explícitamente las columnas índice,
+            # necesario cuando no tienen el mismo nombre
+            by = c("COUNTRY" = "pais"))
+
+map_covid
+
+mapaFinal <- map_covid %>%
+       # usamos el aesthetic fill para indicar la columna de totales
+       ggplot(aes(fill = totales)) +
+       geom_sf()
