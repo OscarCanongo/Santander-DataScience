@@ -6,3 +6,8 @@ Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma
 
 <img src="./images/pandemia.jpg" alt="Pandemia" width="450"/>
 
+## <img src="./images/covid19.jpg" alt="Covid-19" width="80"/>  Analisis de la Pandemia Covid-19
+
+
+
+
