@@ -10,9 +10,8 @@ install.packages("leaflet")
 
 library(dplyr)
 library(ggplot2)
-library(data.table)
-library(rgdal)
-library(leaflet)
+library(tidyverse)
+library(sf)
 
 #Limpiamos el dataset
 COVID <-select(covid, pais = Country.Region, casos = totales) 
@@ -23,8 +22,8 @@ Coronavirus <- COVID %>%
                  summarise(totales = sum(casos)       # Sumamos los casos totales
                )
 
-df_mapa<- st_read("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/shp_mapa_paises_mundo_2014/Mapa_paises_mundo.shp")
-
+df_mapa<- st_read("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
+ 
 df_mapa %>%
   ggplot() + # Crea un objeto ggplot a partir del objeto mex_map
   geom_sf() # agrega una capa con el mapa
@@ -36,11 +35,9 @@ map_covid <- df_mapa %>%
   left_join(Coronavirus,
             # indicar explícitamente las columnas índice,
             # necesario cuando no tienen el mismo nombre
-            by = c("COUNTRY" = "pais"))
+            by = c("PAÍS" = "pais"))
 
-map_covid
-
-mapaFinal <- map_covid %>%
-       # usamos el aesthetic fill para indicar la columna de totales
-       ggplot(aes(fill = totales)) +
-       geom_sf()
+map_covid %>%
+  # usamos el aesthetic fill para indicar la columna de casos
+  ggplot(aes(fill = totales)) +
+  geom_sf()
