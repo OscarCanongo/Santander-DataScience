@@ -7,11 +7,13 @@ ebola <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/D
 install.packages("data.table")
 install.packages("rgdal")
 install.packages("leaflet")
+install.packages("treemap")
 
 library(dplyr)
 library(ggplot2)
 library(tidyverse)
 library(sf)
+library(treemap)
 
 #Limpiamos el dataset
 COVID <-select(covid, pais = Country.Region, casos = totales)
@@ -75,6 +77,47 @@ map_ebola %>%
   # usamos el aesthetic fill para indicar la columna de casos
   ggplot(aes(fill = totales)) +
   geom_sf()
+
+#Tree maps
+# Coronavirus
+p <- treemap(Coronavirus,
+             index=c("pais"),
+             vSize="totales",
+             type="index",
+             palette = "Set2",
+             bg.labels=c("white"),
+             align.labels=list(
+               c("center", "center"), 
+               c("right", "bottom")
+             )  
+)
+
+# H1N1
+p <- treemap(h1n1,
+             index=c("pais"),
+             vSize="totales",
+             type="index",
+             palette = "Set2",
+             bg.labels=c("white"),
+             align.labels=list(
+               c("center", "center"), 
+               c("right", "bottom")
+             )  
+)
+
+# Ebola
+p <- treemap(ebola,
+             index=c("pais"),
+             vSize="totales",
+             type="index",
+             palette = "Set2",
+             bg.labels=c("white"),
+             align.labels=list(
+               c("center", "center"), 
+               c("right", "bottom")
+             )  
+)
+
 
 
 
