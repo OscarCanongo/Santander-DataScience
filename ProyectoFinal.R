@@ -131,5 +131,24 @@ leaflet(df, options = leafletOptions(Zoom = -10, maxZoom = 8)) %>% addTiles() %>
              radius = ~tamano * 3000, popup = ~titulo
   )
 
+#Casos confirmados acumulados
+
+#Sumamos casos acumulados
+totalesCovid <- sum(Coronavirus$totales)
+totalesebola <- sum(ebola$totales)
+totalesh1n1 <- sum(h1n1$totales)
+
+df1 <- data.frame()
+
+covidD <- data.frame(Enfermedad="Coronavirus", Totales = totalesCovid)
+h1n1D <- data.frame(Enfermedad="H1n1", Totales = totalesh1n1)
+ebolaD <- data.frame(Enfermedad="Ebola", Totales = totalesebola)
+
+df1 <- rbind(df1, covidD)
+df1 <- rbind(df1, ebolaD)
+df1 <- rbind(df1, h1n1D)
 
 
+ggplot(df1, aes(x=Enfermedad, y=Totales)) + 
+  geom_bar(stat = "identity", fill = "#779ECB") +
+  coord_flip() 
