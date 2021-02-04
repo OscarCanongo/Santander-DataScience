@@ -14,6 +14,7 @@ library(ggplot2)
 library(tidyverse)
 library(sf)
 library(treemap)
+library(leaflet)
 
 #Limpiamos el dataset
 COVID <-select(covid, pais = Country.Region, casos = totales)
@@ -118,6 +119,17 @@ p <- treemap(ebola,
              )  
 )
 
+#Paises en donde la epidemia comenzó
+longitud <-c(-96.95, 114.02, -10.05, 111.24, 100.55, 38.65, 30.05)
+latitud <- c(19.54,30.56, 8.61,22.85, 4.11, 21.45, 1.37)
+color <- c("red", "red", "red", "blue", "blue", "blue", "blue")
+tamano <- c(300, 300, 300, 300, 300, 300, 300)
+titulo <- c("H1N1 - Veracruz, México", "COVID 19 - Wuhan, China", "Ebola - Meliandou, Guinea", "SARS - Guangdong, China", "NIPHA - Malasia", "MERS - Jeddah, Arabia Saudita", "Zika - Uganda")
+df <- data.frame(longitud, latitud, color, tamano, titulo)
+leaflet(df, options = leafletOptions(Zoom = -10, maxZoom = 8)) %>% addTiles() %>%
+  addCircles(lng = ~longitud, lat = ~latitud, weight = 1, color=~color,
+             radius = ~tamano * 3000, popup = ~titulo
+  )
 
 
 
