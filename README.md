@@ -88,7 +88,7 @@ _Para observar de forma aun mas detallada y precisa para observar que paises son
 <img src="./images/casos_h1n1.png" alt="Tree map de casos de H1N1" width="650"/>
 
 
-### <img src="./images/ebola.jpg" alt="Ebola width="80"/> Analisis de la Pandemia Ebola
+### <img src="./images/ebola.jpg" alt="Ebola width="85"/> Analisis de la Pandemia Ebola
 
 _El virus del Ébola1​ (Ebolavirus)​ es un género de virus de la familia Filoviridae que se detectó por primera vez en algunas regiones de África. La enfermedad que produce una fiebre hemorrágica viral de la misma categoría que la fiebre de Marburg, la fiebre de Lassa y la fiebre del dengue. Es el patógeno causante de la enfermedad del Ébola, una enfermedad infecciosa muy grave que afecta a los seres humanos._
 
