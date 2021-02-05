@@ -4,7 +4,7 @@
 
 _Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma importancia analisar algunos detalles que han influenciado que esta pandemia y otras mas a lo largo de la historia han afectado a la humanidad y que relacion tienen entre ellas._
 
-<img src="./images/pandemia.jpg" alt="Pandemia" width="450"/>
+<img src="./images/pandemia.jpg" alt="Pandemia" width="450" align="center"/>
 
 ## Comenzando 🚀
 
@@ -60,6 +60,9 @@ _Con todo lo anterior contemplado, se puede correr el codigo y observar el anali
 
 _El principal enfoque del proyecto se basa en la comparacion de la actual pandemia Covid-19 respecto a otras graves enfermemdades, tanto en letalidad, alcance, afectaciones a la sociedad, entre muchos otros factores que se pueden analizar y asi poder entender su comportamiento, así como, el tiempo que tardo en propagarse a todo el mundo o la mayor parte de el y que paises fueron los mas afectos_
 
+_El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
+
+<img src="./images/map.covid.png" alt="Mapa de casos de covid19 nivel mundial" width="450" align="center"/>
 
 
 ## Autores ✒️
