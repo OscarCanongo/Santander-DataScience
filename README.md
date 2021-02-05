@@ -4,15 +4,14 @@
 
 _Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma importancia analisar algunos detalles que han influenciado que esta pandemia y otras mas a lo largo de la historia han afectado a la humanidad y que relacion tienen entre ellas._
 
-<img src="./images/pandemia.jpg" alt="Pandemia" width="450"/> <align="center">
+<img src="./images/pandemia.jpg" alt="Pandemia" width="450"/>
 
 ## Comenzando 🚀
 
 _Puedes descargar el repositorio y consultar el codigo en lenguaje de programacipon R sobre el analisis realizado de las siguientes maneras:_
 
-* Dando click en **Code** en el repositorio y despues **Download ZIP**.
-* Haciendo un **Git clone** del repositorio directamente en tu computadora 
-
+- Dando click en **Code** en el repositorio y despues **Download ZIP**.
+- Haciendo un **Git clone** del repositorio directamente en tu computadora
 
 ### Pre-requisitos 📋
 
@@ -54,21 +53,44 @@ install.packages("treemap")
 
 _Con todo lo anterior contemplado, se puede correr el codigo y observar el analisis del proyecto._
 
-## Desarrollo y Análisis de 3 enfermedades que han afectado a la humanidad en los ultimos 20 años  ⚙️
+## Desarrollo y Análisis de 3 enfermedades que han afectado a la humanidad en los ultimos 20 años ⚙️
 
-### <img src="./images/covid19.jpg" alt="Covid-19" width="80"/>  Analisis de la Pandemia Covid-19
+### <img src="./images/covid19.jpg" alt="Covid-19" width="80"/> Analisis de la Pandemia Covid-19
 
 _El principal enfoque del proyecto se basa en la comparacion de la actual pandemia Covid-19 respecto a otras graves enfermemdades, tanto en letalidad, alcance, afectaciones a la sociedad, entre muchos otros factores que se pueden analizar y asi poder entender su comportamiento, así como, el tiempo que tardo en propagarse a todo el mundo o la mayor parte de el y que paises fueron los mas afectos_
 
+_El o la COVID-19 (acrónimo del inglés coronavirus disease 2019), covid-19 o covid, conocida en español como enfermedad por coronavirus 2019 e incorrectamente como neumonía por coronavirus, es una enfermedad infecciosa causada por el virus SARS-CoV-2._
+
+_Produce síntomas similares a los de la gripe o catarro, entre los que se incluyen fiebre, tos,​ disnea, mialgia y fatiga. En casos graves se caracteriza por producir neumonía, síndrome de dificultad respiratoria aguda,15​ sepsis16​ y choque séptico que conduce a cerca de 3,75 % de los infectados a la muerte según la OMS.No existe tratamiento específico; las medidas terapéuticas principales consisten en aliviar los síntomas y mantener las funciones vitales._
+
 _El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
 
-<img src="./images/map_covid.png" alt="Mapa de casos de covid19 nivel mundial" width="450"/> <align="center">
+<img src="./images/map_covid.png" alt="Mapa de casos de covid19 nivel mundial" width="650"/>
 
+_Para observar de fotma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+
+<img src="./images/casos_covid19.png" alt="Tree map de casos de covid" width="650"/>
+
+### <img src="./images/influenzah1h1.jpg" alt="H1N1" width="80"/> Analisis de la Pandemia Influenza H1N1
+
+_El influenza virus A subtipo H1N1, más conocido como A H1N1 humana, es una especie de influenzavirus tipo A del virus de la gripe, perteneciente a la familia de los Orthomyxoviridae._
+
+_El H1N1 ha mutado en diversos subtipos que incluyen la gripe española (la de mayor fatalidad en los humanos pero ya extinta en la vida silvestre), la gripe porcina, la gripe aviar y la gripe bovina. La cepa mantiene su circulación después de haber sido reintroducida por la población humana en los años 1970 (Gripe rusa de 1977)_
+
+_Desde mediados de marzo de 2009, al menos 900 casos mortales han ocurrido en toda Europa y América por la pandemia de una cepa novedosa de H1N1, al menos otras 1000 muertes en México aún no están oficialmente confirmadas como casos de influenza H1N1, en el año 2013 y 2014 el gobierno de México dio la noticia de los nuevos casos de esta cepa del virus._
+
+_El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
+
+<img src="./images/map_h1n1.png" alt="Mapa de casos de influenza H1N1 nivel mundial" width="650"/>
+
+_Para observar de fotma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+
+<img src="./images/casos_h1n1.png" alt="Tree map de casos de H1N1" width="650"/>
 
 ## Autores ✒️
 
 _Este proyecto fue realizado por el equipo 24 del programa Santander-DataScience, cuyos sintegrantes son:_
 
-* **Oscar Cañongo** - ** - [OscarCanongo](https://github.com/OscarCanongo)
-* **Andres** - ** - [andresam0301](https://github.com/andresam0301)
-* **Daniel Arellano** - ** - [Tachuelin](https://github.com/Tachuelin)
+- **Oscar Cañongo** - \*\* - [OscarCanongo](https://github.com/OscarCanongo)
+- **Andres** - \*\* - [andresam0301](https://github.com/andresam0301)
+- **Daniel Arellano** - \*\* - [Tachuelin](https://github.com/Tachuelin)
