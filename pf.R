@@ -1,5 +1,5 @@
 #proyecto final R analisis del H1N1
-setwd("C:/Users/Andrés/Documents/bedu/rdata/pf/datospf")
+setwd("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/datospf/")
 h1n1=read.csv("H1N1.csv")
 covid=read.csv("Covid.csv")
 ebola=read.csv("ebola_2014_2016_clean.csv")
