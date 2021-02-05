@@ -67,7 +67,7 @@ _El primer análisis que podemos hacer sobre esta enfermedad es los casos totale
 
 <img src="./images/map_covid.png" alt="Mapa de casos de covid19 nivel mundial" width="650"/>
 
-_Para observar de fotma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+_Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
 
 <img src="./images/casos_covid19.png" alt="Tree map de casos de covid" width="650"/>
 
@@ -83,9 +83,25 @@ _El primer análisis que podemos hacer sobre esta enfermedad es los casos totale
 
 <img src="./images/map_h1n1.png" alt="Mapa de casos de influenza H1N1 nivel mundial" width="650"/>
 
-_Para observar de fotma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+_Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
 
 <img src="./images/casos_h1n1.png" alt="Tree map de casos de H1N1" width="650"/>
+
+
+### <img src="./images/ebola.jpg" alt="Ebola width="80"/> Analisis de la Pandemia Ebola
+
+_El virus del Ébola1​ (Ebolavirus)​ es un género de virus de la familia Filoviridae que se detectó por primera vez en algunas regiones de África. La enfermedad que produce una fiebre hemorrágica viral de la misma categoría que la fiebre de Marburg, la fiebre de Lassa y la fiebre del dengue. Es el patógeno causante de la enfermedad del Ébola, una enfermedad infecciosa muy grave que afecta a los seres humanos._
+
+_Este nombre proviene del río Ébola (en la República Democrática del Congo, antigua Zaire), donde fue identificado por primera vez en 1976 durante una epidemia con elevada tasa de mortalidad._
+
+_El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
+
+<img src="./images/map_ebola.png" alt="Mapa de casos de Ebola a nivel mundial" width="650"/>
+
+_Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+
+<img src="./images/casos_ebola.png" alt="Tree map de casos de Ebola" width="650"/>
+
 
 ## Autores ✒️
 
