@@ -10,7 +10,7 @@ _Conociendo la gravedad de la situación que vivimos en la actualidad, es de sum
 
 _Puedes descargar el repositorio y consultar el codigo en lenguaje de programacipon R sobre el analisis realizado de las siguientes maneras:_
 
-* Dando click en **Code** en el repositorio y despues **Download ZIP.
+* Dando click en **Code** en el repositorio y despues **Download ZIP**.
 * Haciendo un **Git clone** del repositorio directamente en tu computadora 
 
 
