@@ -1,0 +1,2486 @@
+Country,Date,cases,deaths
+Guinea,29/08/2014,648,430
+Nigeria,29/08/2014,19,7
+Sierra Leone,29/08/2014,1026,422
+Liberia,29/08/2014,1378,694
+Sierra Leone,05/09/2014,1261,491
+Nigeria,05/09/2014,22,8
+Liberia,05/09/2014,1871,1089
+Guinea,05/09/2014,812,517
+Senegal,05/09/2014,1,0
+Senegal,08/09/2014,3,0
+Guinea,08/09/2014,862,555
+Sierra Leone,08/09/2014,1361,509
+Liberia,08/09/2014,2046,1224
+Nigeria,08/09/2014,21,8
+Guinea,12/09/2014,861,557
+Sierra Leone,12/09/2014,1424,524
+Nigeria,12/09/2014,21,8
+Liberia,12/09/2014,2081,1137
+Senegal,12/09/2014,3,0
+Senegal,16/09/2014,1,0
+Sierra Leone,16/09/2014,1620,562
+Guinea,16/09/2014,936,595
+Nigeria,16/09/2014,21,8
+Liberia,16/09/2014,2407,1296
+Nigeria,18/09/2014,21,8
+Guinea,18/09/2014,942,601
+Sierra Leone,18/09/2014,1673,562
+Liberia,18/09/2014,2710,1459
+Senegal,18/09/2014,1,0
+Nigeria,22/09/2014,20,8
+Sierra Leone,22/09/2014,1813,593
+Liberia,22/09/2014,3022,1578
+Senegal,22/09/2014,1,0
+Guinea,22/09/2014,1008,632
+Liberia,24/09/2014,3280,1677
+Guinea,24/09/2014,1022,635
+Nigeria,24/09/2014,20,8
+Senegal,24/09/2014,1,0
+Sierra Leone,24/09/2014,1940,597
+Sierra Leone,26/09/2014,2021,605
+Liberia,26/09/2014,3458,1830
+Senegal,26/09/2014,1,0
+Guinea,26/09/2014,1074,648
+Nigeria,26/09/2014,20,8
+Guinea,01/10/2014,1157,710
+Senegal,01/10/2014,1,0
+Nigeria,01/10/2014,20,8
+Sierra Leone,01/10/2014,2304,622
+Liberia,01/10/2014,3696,1998
+United States of America,03/10/2014,1,0
+Nigeria,03/10/2014,20,8
+Guinea,03/10/2014,1199,739
+Liberia,03/10/2014,3834,2069
+Sierra Leone,03/10/2014,2437,623
+Senegal,03/10/2014,1,0
+Nigeria,08/10/2014,20,8
+United States of America,08/10/2014,1,0
+Senegal,08/10/2014,1,0
+Guinea,08/10/2014,1298,768
+Sierra Leone,08/10/2014,2789,879
+Liberia,08/10/2014,3924,2210
+United States of America,10/10/2014,1,0
+Senegal,10/10/2014,1,0
+Liberia,10/10/2014,4076,2316
+Nigeria,10/10/2014,20,8
+Spain,10/10/2014,1,0
+Guinea,10/10/2014,1350,778
+Sierra Leone,10/10/2014,2950,930
+United States of America,15/10/2014,2,1
+Senegal,15/10/2014,1,0
+Nigeria,15/10/2014,20,8
+Liberia,15/10/2014,4249,2458
+Spain,15/10/2014,1,0
+Guinea,15/10/2014,1472,843
+Sierra Leone,15/10/2014,3252,1183
+Guinea,17/10/2014,1519,862
+Nigeria,17/10/2014,20,8
+Spain,17/10/2014,1,0
+Senegal,17/10/2014,1,0
+United States of America,17/10/2014,3,1
+Liberia,17/10/2014,4262,2484
+Sierra Leone,17/10/2014,3410,1200
+Nigeria,22/10/2014,20,8
+Spain,22/10/2014,1,0
+United States of America,22/10/2014,3,1
+Sierra Leone,22/10/2014,3706,1259
+Senegal,22/10/2014,1,0
+Liberia,22/10/2014,4665,2705
+Guinea,22/10/2014,1540,904
+Mali,25/10/2014,1,1
+United States of America,25/10/2014,4,1
+Sierra Leone,25/10/2014,3896,1281
+Spain,25/10/2014,1,0
+Senegal,25/10/2014,1,0
+Nigeria,25/10/2014,20,8
+Guinea,25/10/2014,1553,926
+Liberia,25/10/2014,4665,2705
+Liberia,29/10/2014,6535,2413
+Mali,29/10/2014,1,1
+Nigeria,29/10/2014,20,8
+Senegal,29/10/2014,1,0
+Spain,29/10/2014,1,0
+Guinea,29/10/2014,1906,997
+United States of America,29/10/2014,4,1
+Sierra Leone,29/10/2014,5235,1500
+Guinea,31/10/2014,1667,1018
+Nigeria,31/10/2014,20,8
+Spain,31/10/2014,1,0
+United States of America,31/10/2014,4,1
+Senegal,31/10/2014,1,0
+Mali,31/10/2014,1,1
+Liberia,31/10/2014,6535,2413
+Sierra Leone,31/10/2014,5338,1510
+Spain,05/11/2014,1,0
+United States of America,05/11/2014,4,1
+Guinea,05/11/2014,1731,1041
+Liberia,05/11/2014,6525,2697
+Mali,05/11/2014,1,1
+Nigeria,05/11/2014,20,8
+Senegal,05/11/2014,1,0
+Sierra Leone,05/11/2014,4759,1070
+Nigeria,07/11/2014,20,8
+Guinea,07/11/2014,1760,1054
+United States of America,07/11/2014,4,1
+Senegal,07/11/2014,1,0
+Liberia,07/11/2014,6619,2766
+Spain,07/11/2014,1,0
+Mali,07/11/2014,1,1
+Sierra Leone,07/11/2014,4862,1130
+Spain,12/11/2014,1,0
+United States of America,12/11/2014,4,1
+Mali,12/11/2014,4,4
+Nigeria,12/11/2014,20,8
+Guinea,12/11/2014,1878,1142
+Sierra Leone,12/11/2014,5368,1169
+Liberia,12/11/2014,6822,2836
+Senegal,12/11/2014,1,0
+Senegal,14/11/2014,1,0
+Guinea,14/11/2014,1919,1166
+Spain,14/11/2014,1,0
+Nigeria,14/11/2014,20,8
+Mali,14/11/2014,4,3
+United States of America,14/11/2014,4,1
+Liberia,14/11/2014,6878,2812
+Sierra Leone,14/11/2014,5586,1187
+Liberia,19/11/2014,7069,2964
+Spain,19/11/2014,1,0
+Sierra Leone,19/11/2014,6073,1250
+Senegal,19/11/2014,1,0
+Nigeria,19/11/2014,20,8
+Mali,19/11/2014,6,5
+United States of America,19/11/2014,4,1
+Guinea,19/11/2014,1971,1192
+Spain,21/11/2014,1,0
+Liberia,21/11/2014,7082,2963
+Nigeria,21/11/2014,20,8
+United States of America,21/11/2014,4,1
+Sierra Leone,21/11/2014,6190,1267
+Mali,21/11/2014,6,6
+Senegal,21/11/2014,1,0
+Guinea,21/11/2014,2047,1214
+Sierra Leone,26/11/2014,6599,1398
+Liberia,26/11/2014,7168,3016
+Mali,26/11/2014,8,6
+United States of America,26/11/2014,4,1
+Spain,26/11/2014,1,0
+Nigeria,26/11/2014,20,8
+Guinea,26/11/2014,2134,1260
+Senegal,26/11/2014,1,0
+Senegal,01/12/2014,1,0
+Mali,01/12/2014,8,6
+Spain,01/12/2014,1,0
+Sierra Leone,01/12/2014,7109,1530
+Liberia,01/12/2014,7635,3145
+Nigeria,01/12/2014,20,8
+Guinea,01/12/2014,2155,1312
+United States of America,01/12/2014,4,1
+Mali,03/12/2014,8,6
+Spain,03/12/2014,1,0
+Guinea,03/12/2014,2164,1327
+Senegal,03/12/2014,1,0
+Sierra Leone,03/12/2014,7312,1583
+Liberia,03/12/2014,7635,3145
+United States of America,03/12/2014,4,1
+Nigeria,03/12/2014,20,8
+Spain,10/12/2014,1,0
+Guinea,10/12/2014,2292,1428
+Senegal,10/12/2014,1,0
+Mali,10/12/2014,8,6
+Liberia,10/12/2014,7719,3177
+Sierra Leone,10/12/2014,7897,1768
+Nigeria,10/12/2014,20,8
+United States of America,10/12/2014,4,1
+Spain,15/12/2014,1,0
+Nigeria,15/12/2014,20,8
+Guinea,15/12/2014,2394,1518
+United States of America,15/12/2014,4,1
+Mali,15/12/2014,8,6
+Liberia,15/12/2014,7797,3290
+Senegal,15/12/2014,1,0
+Sierra Leone,15/12/2014,8273,2033
+Nigeria,17/12/2014,20,8
+Senegal,17/12/2014,1,0
+Spain,17/12/2014,1,0
+Liberia,17/12/2014,7797,3290
+Mali,17/12/2014,8,6
+United States of America,17/12/2014,4,1
+Guinea,17/12/2014,2416,1525
+Sierra Leone,17/12/2014,8356,2085
+Spain,22/12/2014,1,0
+United States of America,22/12/2014,4,1
+Nigeria,22/12/2014,20,8
+Senegal,22/12/2014,1,0
+Guinea,22/12/2014,2571,1586
+Liberia,22/12/2014,7830,3376
+Mali,22/12/2014,8,6
+Sierra Leone,22/12/2014,8939,2556
+Sierra Leone,23/12/2014,9004,2582
+Mali,23/12/2014,8,6
+Spain,23/12/2014,1,0
+Liberia,23/12/2014,7830,3376
+Senegal,23/12/2014,1,0
+Guinea,23/12/2014,2597,1607
+Nigeria,23/12/2014,20,8
+United States of America,23/12/2014,4,1
+Nigeria,24/12/2014,20,8
+Senegal,24/12/2014,1,0
+Guinea,24/12/2014,2597,1607
+Sierra Leone,24/12/2014,9004,2582
+Spain,24/12/2014,1,0
+Mali,24/12/2014,8,6
+Liberia,24/12/2014,7862,3384
+United States of America,24/12/2014,4,1
+Senegal,26/12/2014,1,0
+Mali,26/12/2014,8,6
+Sierra Leone,26/12/2014,9203,2655
+United States of America,26/12/2014,4,1
+Nigeria,26/12/2014,20,8
+Guinea,26/12/2014,2630,1654
+Liberia,26/12/2014,7862,3384
+Spain,26/12/2014,1,0
+United States of America,29/12/2014,4,1
+Sierra Leone,29/12/2014,9409,2732
+Nigeria,29/12/2014,20,8
+Mali,29/12/2014,8,6
+Liberia,29/12/2014,7977,3413
+Guinea,29/12/2014,2695,1697
+Senegal,29/12/2014,1,0
+Spain,29/12/2014,1,0
+United States of America,30/12/2014,4,1
+Sierra Leone,30/12/2014,9446,2758
+Mali,30/12/2014,8,6
+Liberia,30/12/2014,7977,3413
+Guinea,30/12/2014,2706,1708
+Spain,30/12/2014,1,0
+Senegal,30/12/2014,1,0
+Nigeria,30/12/2014,20,8
+Spain,31/12/2014,1,0
+Senegal,31/12/2014,1,0
+Liberia,31/12/2014,8018,3423
+Sierra Leone,31/12/2014,9446,2758
+Mali,31/12/2014,8,6
+Nigeria,31/12/2014,20,8
+United States of America,31/12/2014,4,1
+Guinea,31/12/2014,2707,1709
+Nigeria,02/01/2015,20,8
+Spain,02/01/2015,1,0
+United States of America,02/01/2015,4,1
+Senegal,02/01/2015,1,0
+United Kingdom,02/01/2015,0,0
+Liberia,02/01/2015,8018,3423
+Sierra Leone,02/01/2015,9633,2827
+Mali,02/01/2015,8,6
+Guinea,02/01/2015,2730,1739
+Sierra Leone,05/01/2015,9772,2915
+Liberia,05/01/2015,8115,3471
+Spain,05/01/2015,1,0
+Nigeria,05/01/2015,20,8
+United Kingdom,05/01/2015,0,0
+Guinea,05/01/2015,2769,1767
+United States of America,05/01/2015,4,1
+Mali,05/01/2015,8,6
+Senegal,05/01/2015,1,0
+United Kingdom,06/01/2015,1,0
+Guinea,06/01/2015,2775,1781
+Sierra Leone,06/01/2015,9780,2943
+Liberia,06/01/2015,8157,3496
+Spain,06/01/2015,1,0
+United States of America,06/01/2015,4,1
+Senegal,06/01/2015,1,0
+Nigeria,06/01/2015,20,8
+Mali,06/01/2015,8,6
+Spain,07/01/2015,1,0
+Guinea,07/01/2015,2775,1781
+Senegal,07/01/2015,1,0
+Nigeria,07/01/2015,20,8
+United Kingdom,07/01/2015,1,0
+Mali,07/01/2015,8,6
+United States of America,07/01/2015,4,1
+Sierra Leone,07/01/2015,9780,2943
+Liberia,07/01/2015,8157,3496
+United Kingdom,08/01/2015,,0
+Mali,08/01/2015,,6
+Guinea,08/01/2015,2776,1786
+Sierra Leone,08/01/2015,10030,2977
+Liberia,08/01/2015,8166,3496
+Mali,09/01/2015,,6
+Guinea,09/01/2015,2793,1797
+United Kingdom,09/01/2015,,0
+Sierra Leone,09/01/2015,10030,2977
+Liberia,09/01/2015,8263,3515
+Liberia,12/01/2015,8278,3515
+United Kingdom,12/01/2015,,0
+Sierra Leone,12/01/2015,10094,3049
+Mali,12/01/2015,,6
+Guinea,12/01/2015,2799,1807
+United Kingdom,13/01/2015,,0
+Mali,13/01/2015,,6
+Guinea,13/01/2015,2799,1807
+Liberia,13/01/2015,8278,3515
+Sierra Leone,13/01/2015,10094,3049
+Liberia,14/01/2015,8331,3538
+United States of America,14/01/2015,4,1
+Senegal,14/01/2015,1,0
+Guinea,14/01/2015,2806,1814
+Spain,14/01/2015,1,0
+Nigeria,14/01/2015,20,8
+Sierra Leone,14/01/2015,10124,3062
+Mali,14/01/2015,8,6
+United Kingdom,14/01/2015,1,0
+Sierra Leone,15/01/2015,10150,3067
+Liberia,15/01/2015,8362,3556
+United States of America,15/01/2015,4,1
+Mali,15/01/2015,8,6
+Spain,15/01/2015,1,0
+Guinea,15/01/2015,2817,1821
+United Kingdom,15/01/2015,1,0
+Nigeria,15/01/2015,20,8
+Senegal,15/01/2015,1,0
+Spain,16/01/2015,1,0
+Nigeria,16/01/2015,20,8
+Guinea,16/01/2015,2825,1829
+Mali,16/01/2015,8,6
+Senegal,16/01/2015,1,0
+Liberia,16/01/2015,8362,3556
+United States of America,16/01/2015,4,1
+Sierra Leone,16/01/2015,10186,3083
+United Kingdom,16/01/2015,1,0
+Nigeria,19/01/2015,20,8
+Liberia,19/01/2015,8435,3587
+United Kingdom,19/01/2015,1,0
+Spain,19/01/2015,1,0
+Guinea,19/01/2015,2873,1875
+Sierra Leone,19/01/2015,10306,3132
+Senegal,19/01/2015,1,0
+United States of America,19/01/2015,4,1
+Mali,19/01/2015,8,6
+Spain,20/01/2015,1,0
+United Kingdom,20/01/2015,1,0
+Senegal,20/01/2015,1,0
+Nigeria,20/01/2015,20,8
+Liberia,20/01/2015,8478,3605
+Guinea,20/01/2015,2871,1876
+Mali,20/01/2015,8,6
+United States of America,20/01/2015,4,1
+Sierra Leone,20/01/2015,10340,3145
+Sierra Leone,21/01/2015,10340,3145
+Nigeria,21/01/2015,20,8
+Liberia,21/01/2015,8478,3605
+Spain,21/01/2015,1,0
+Mali,21/01/2015,8,6
+Senegal,21/01/2015,1,0
+United States of America,21/01/2015,4,1
+Guinea,21/01/2015,2871,1876
+United Kingdom,21/01/2015,1,0
+Liberia,22/01/2015,8524,3636
+Senegal,22/01/2015,1,0
+United States of America,22/01/2015,4,1
+Nigeria,22/01/2015,20,8
+Sierra Leone,22/01/2015,10362,3153
+Mali,22/01/2015,8,6
+Guinea,22/01/2015,2873,1879
+Spain,22/01/2015,1,0
+United Kingdom,22/01/2015,1,0
+Sierra Leone,23/01/2015,10400,3159
+Mali,23/01/2015,8,6
+Liberia,23/01/2015,8524,3636
+Spain,23/01/2015,1,0
+Guinea,23/01/2015,2873,1880
+Senegal,23/01/2015,1,0
+Nigeria,23/01/2015,20,8
+United States of America,23/01/2015,4,1
+United Kingdom,23/01/2015,1,0
+Senegal,26/01/2015,1,0
+Sierra Leone,26/01/2015,10491,3195
+Nigeria,26/01/2015,20,8
+United States of America,26/01/2015,4,1
+Guinea,26/01/2015,2909,1906
+United Kingdom,26/01/2015,1,0
+Mali,26/01/2015,8,6
+Liberia,26/01/2015,8524,3636
+Spain,26/01/2015,1,0
+Mali,27/01/2015,8,6
+Liberia,27/01/2015,8622,3686
+United States of America,27/01/2015,4,1
+Spain,27/01/2015,1,0
+Nigeria,27/01/2015,20,8
+Senegal,27/01/2015,1,0
+Sierra Leone,27/01/2015,10518,3199
+United Kingdom,27/01/2015,1,0
+Guinea,27/01/2015,2917,1910
+Senegal,28/01/2015,1,0
+Liberia,28/01/2015,8622,3686
+United States of America,28/01/2015,4,1
+Sierra Leone,28/01/2015,10518,3199
+Spain,28/01/2015,1,0
+United Kingdom,28/01/2015,1,0
+Mali,28/01/2015,8,6
+Nigeria,28/01/2015,20,8
+Guinea,28/01/2015,2917,1910
+Mali,29/01/2015,8,6
+Nigeria,29/01/2015,20,8
+Spain,29/01/2015,1,0
+Liberia,29/01/2015,8643,3700
+United States of America,29/01/2015,4,1
+Senegal,29/01/2015,1,0
+Sierra Leone,29/01/2015,10537,3207
+Guinea,29/01/2015,2921,1911
+United Kingdom,29/01/2015,1,0
+Spain,30/01/2015,1,0
+Liberia,30/01/2015,8643,3700
+Sierra Leone,30/01/2015,10561,3216
+United Kingdom,30/01/2015,1,0
+Senegal,30/01/2015,1,0
+United States of America,30/01/2015,4,1
+Guinea,30/01/2015,2920,1913
+Nigeria,30/01/2015,20,8
+Mali,30/01/2015,8,6
+Liberia,02/02/2015,8668,3710
+Sierra Leone,02/02/2015,10707,3274
+United States of America,02/02/2015,4,1
+Nigeria,02/02/2015,20,8
+Senegal,02/02/2015,1,0
+Guinea,02/02/2015,2959,1937
+Mali,02/02/2015,8,6
+Spain,02/02/2015,1,0
+United Kingdom,02/02/2015,1,0
+Guinea,03/02/2015,2975,1944
+Mali,03/02/2015,8,6
+Senegal,03/02/2015,1,0
+Liberia,03/02/2015,8729,3739
+Nigeria,03/02/2015,20,8
+United Kingdom,03/02/2015,1,0
+Spain,03/02/2015,1,0
+Sierra Leone,03/02/2015,10740,3276
+United States of America,03/02/2015,4,1
+Sierra Leone,04/02/2015,10740,3276
+Mali,04/02/2015,8,6
+Liberia,04/02/2015,8745,3746
+Guinea,04/02/2015,2975,1944
+Spain,04/02/2015,1,0
+United Kingdom,04/02/2015,1,0
+Senegal,04/02/2015,1,0
+Nigeria,04/02/2015,20,8
+United States of America,04/02/2015,4,1
+United Kingdom,05/02/2015,1,0
+United States of America,05/02/2015,4,1
+Mali,05/02/2015,8,6
+Guinea,05/02/2015,2986,1947
+Sierra Leone,05/02/2015,10756,3286
+Nigeria,05/02/2015,20,8
+Liberia,05/02/2015,8745,3746
+Senegal,05/02/2015,1,0
+Spain,05/02/2015,1,0
+Nigeria,06/02/2015,20,8
+Mali,06/02/2015,8,6
+Spain,06/02/2015,1,0
+Senegal,06/02/2015,1,0
+Sierra Leone,06/02/2015,10792,3301
+Liberia,06/02/2015,8745,3746
+United States of America,06/02/2015,4,1
+United Kingdom,06/02/2015,1,0
+Guinea,06/02/2015,2988,1957
+Guinea,10/02/2015,3044,1995
+Spain,10/02/2015,1,0
+Mali,10/02/2015,8,6
+United States of America,10/02/2015,4,1
+Liberia,10/02/2015,8881,3826
+Senegal,10/02/2015,1,0
+Sierra Leone,10/02/2015,10934,3341
+United Kingdom,10/02/2015,1,0
+Nigeria,10/02/2015,20,8
+United States of America,11/02/2015,4,1
+Nigeria,11/02/2015,20,8
+Sierra Leone,11/02/2015,10934,3341
+Guinea,11/02/2015,3044,1995
+Senegal,11/02/2015,1,0
+Liberia,11/02/2015,8881,3826
+Mali,11/02/2015,8,6
+Spain,11/02/2015,1,0
+United Kingdom,11/02/2015,1,0
+Guinea,12/02/2015,3068,2018
+Sierra Leone,12/02/2015,10954,3350
+Liberia,12/02/2015,8881,3826
+Nigeria,12/02/2015,20,8
+United Kingdom,12/02/2015,1,0
+Mali,12/02/2015,8,6
+Senegal,12/02/2015,1,0
+Spain,12/02/2015,1,0
+United States of America,12/02/2015,4,1
+Sierra Leone,13/02/2015,10987,3363
+Senegal,13/02/2015,1,0
+Spain,13/02/2015,1,0
+Mali,13/02/2015,8,6
+Guinea,13/02/2015,3081,2032
+United Kingdom,13/02/2015,1,0
+United States of America,13/02/2015,4,1
+Liberia,13/02/2015,8931,3858
+Nigeria,13/02/2015,20,8
+Liberia,16/02/2015,9007,3900
+United States of America,16/02/2015,4,1
+Mali,16/02/2015,8,6
+United Kingdom,16/02/2015,1,0
+Guinea,16/02/2015,3101,2052
+Senegal,16/02/2015,1,0
+Spain,16/02/2015,1,0
+Sierra Leone,16/02/2015,11074,3401
+Nigeria,16/02/2015,20,8
+Nigeria,17/02/2015,20,8
+Liberia,17/02/2015,9007,3900
+United States of America,17/02/2015,4,1
+Guinea,17/02/2015,3108,2057
+Sierra Leone,17/02/2015,11103,3408
+Spain,17/02/2015,1,0
+Mali,17/02/2015,8,6
+United Kingdom,17/02/2015,1,0
+Senegal,17/02/2015,1,0
+Sierra Leone,18/02/2015,11103,3408
+United Kingdom,18/02/2015,1,0
+Nigeria,18/02/2015,20,8
+Spain,18/02/2015,1,0
+Mali,18/02/2015,8,6
+Liberia,18/02/2015,9007,3900
+Senegal,18/02/2015,1,0
+Guinea,18/02/2015,3108,2057
+United States of America,18/02/2015,4,1
+Nigeria,19/02/2015,20,8
+United States of America,19/02/2015,4,1
+Liberia,19/02/2015,9096,3947
+Senegal,19/02/2015,1,0
+Sierra Leone,19/02/2015,11155,3423
+Spain,19/02/2015,1,0
+Mali,19/02/2015,8,6
+Guinea,19/02/2015,3115,2067
+United Kingdom,19/02/2015,1,0
+United Kingdom,20/02/2015,1,0
+Liberia,20/02/2015,9096,3947
+Guinea,20/02/2015,3120,2072
+United States of America,20/02/2015,4,1
+Nigeria,20/02/2015,20,8
+Sierra Leone,20/02/2015,11155,3423
+Mali,20/02/2015,8,6
+Spain,20/02/2015,1,0
+Senegal,20/02/2015,1,0
+Liberia,23/02/2015,9229,4032
+Senegal,23/02/2015,1,0
+Spain,23/02/2015,1,0
+United Kingdom,23/02/2015,1,0
+Mali,23/02/2015,8,6
+Sierra Leone,23/02/2015,11155,3423
+Nigeria,23/02/2015,20,8
+Guinea,23/02/2015,3155,2086
+United States of America,23/02/2015,4,1
+United Kingdom,25/02/2015,1,0
+Sierra Leone,25/02/2015,11301,3461
+Liberia,25/02/2015,9238,4037
+Nigeria,25/02/2015,20,8
+Mali,25/02/2015,8,6
+United States of America,25/02/2015,4,1
+Guinea,25/02/2015,3155,2091
+Senegal,25/02/2015,1,0
+Spain,25/02/2015,1,0
+Mali,26/02/2015,8,6
+Senegal,26/02/2015,1,0
+Guinea,26/02/2015,3175,2101
+Sierra Leone,26/02/2015,11341,3479
+United Kingdom,26/02/2015,1,0
+United States of America,26/02/2015,4,1
+Liberia,26/02/2015,9265,4057
+Nigeria,26/02/2015,20,8
+Spain,26/02/2015,1,0
+Sierra Leone,27/02/2015,11370,3490
+Mali,27/02/2015,8,6
+Nigeria,27/02/2015,20,8
+United States of America,27/02/2015,4,1
+Guinea,27/02/2015,3190,2113
+United Kingdom,27/02/2015,1,0
+Senegal,27/02/2015,1,0
+Spain,27/02/2015,1,0
+Liberia,27/02/2015,9265,4057
+Guinea,02/03/2015,3205,2127
+United Kingdom,02/03/2015,1,0
+Sierra Leone,02/03/2015,11443,3530
+Spain,02/03/2015,1,0
+Nigeria,02/03/2015,20,8
+Mali,02/03/2015,8,6
+Liberia,02/03/2015,9265,4057
+United States of America,02/03/2015,4,1
+Senegal,02/03/2015,1,0
+Liberia,04/03/2015,9265,4057
+Nigeria,04/03/2015,20,8
+Senegal,04/03/2015,1,0
+United States of America,04/03/2015,4,1
+Mali,04/03/2015,8,6
+Spain,04/03/2015,1,0
+Sierra Leone,04/03/2015,11443,3530
+Guinea,04/03/2015,3205,2127
+United Kingdom,04/03/2015,1,0
+Nigeria,05/03/2015,20,8
+United Kingdom,05/03/2015,1,0
+Guinea,05/03/2015,3237,2141
+Spain,05/03/2015,1,0
+Liberia,05/03/2015,9249,4117
+Senegal,05/03/2015,1,0
+Mali,05/03/2015,8,6
+Sierra Leone,05/03/2015,11497,3565
+United States of America,05/03/2015,4,1
+United States of America,06/03/2015,4,1
+Mali,06/03/2015,8,6
+Nigeria,06/03/2015,20,8
+Liberia,06/03/2015,9249,4117
+Sierra Leone,06/03/2015,11517,3576
+Guinea,06/03/2015,3248,2147
+Spain,06/03/2015,1,0
+Senegal,06/03/2015,1,0
+United Kingdom,06/03/2015,1,0
+Guinea,10/03/2015,3285,2170
+Mali,10/03/2015,8,6
+Sierra Leone,10/03/2015,11619,3629
+Spain,10/03/2015,1,0
+United States of America,10/03/2015,4,1
+United Kingdom,10/03/2015,1,0
+Liberia,10/03/2015,9343,4162
+Senegal,10/03/2015,1,0
+Nigeria,10/03/2015,20,8
+Guinea,11/03/2015,3285,2170
+United States of America,11/03/2015,4,1
+United Kingdom,11/03/2015,1,0
+Mali,11/03/2015,8,6
+Senegal,11/03/2015,1,0
+Nigeria,11/03/2015,20,8
+Liberia,11/03/2015,9343,4162
+Spain,11/03/2015,1,0
+Sierra Leone,11/03/2015,11619,3629
+Nigeria,12/03/2015,20,8
+Spain,12/03/2015,1,0
+United Kingdom,12/03/2015,1,0
+United States of America,12/03/2015,4,1
+Sierra Leone,12/03/2015,11677,3655
+Liberia,12/03/2015,9343,4162
+Guinea,12/03/2015,3330,2187
+Senegal,12/03/2015,1,0
+Mali,12/03/2015,8,6
+Spain,13/03/2015,1,0
+Liberia,13/03/2015,9482,4241
+Sierra Leone,13/03/2015,11696,3663
+United States of America,13/03/2015,4,1
+Guinea,13/03/2015,3331,2192
+United Kingdom,13/03/2015,1,0
+Nigeria,13/03/2015,20,8
+Senegal,13/03/2015,1,0
+Mali,13/03/2015,8,6
+Mali,16/03/2015,8,6
+Guinea,16/03/2015,3373,2216
+Sierra Leone,16/03/2015,11742,3687
+Senegal,16/03/2015,1,0
+Nigeria,16/03/2015,20,8
+Spain,16/03/2015,1,0
+United States of America,16/03/2015,4,1
+Liberia,16/03/2015,9482,4241
+United Kingdom,16/03/2015,1,0
+Guinea,17/03/2015,3389,2224
+Mali,17/03/2015,8,6
+Nigeria,17/03/2015,20,8
+Senegal,17/03/2015,1,0
+Sierra Leone,17/03/2015,11751,3691
+Liberia,17/03/2015,9526,4264
+Spain,17/03/2015,1,0
+United Kingdom,17/03/2015,1,0
+United States of America,17/03/2015,4,1
+Liberia,18/03/2015,9526,4264
+Sierra Leone,18/03/2015,11751,3691
+Spain,18/03/2015,1,0
+Guinea,18/03/2015,3389,2224
+United Kingdom,18/03/2015,1,0
+Nigeria,18/03/2015,20,8
+Senegal,18/03/2015,1,0
+Mali,18/03/2015,8,6
+United States of America,18/03/2015,4,1
+United Kingdom,20/03/2015,1,0
+Guinea,20/03/2015,3404,2241
+Sierra Leone,20/03/2015,11794,3712
+United States of America,20/03/2015,4,1
+Nigeria,20/03/2015,20,8
+Senegal,20/03/2015,1,0
+Spain,20/03/2015,1,0
+Mali,20/03/2015,8,6
+Liberia,20/03/2015,9555,4283
+United States of America,23/03/2015,4,1
+Senegal,23/03/2015,1,0
+Liberia,23/03/2015,9593,4296
+Mali,23/03/2015,8,6
+Sierra Leone,23/03/2015,11829,3742
+United Kingdom,23/03/2015,1,0
+Guinea,23/03/2015,3420,2261
+Spain,23/03/2015,1,0
+Nigeria,23/03/2015,20,8
+Senegal,24/03/2015,1,0
+Sierra Leone,24/03/2015,11841,3747
+Guinea,24/03/2015,3429,2263
+Spain,24/03/2015,1,0
+Nigeria,24/03/2015,20,8
+Mali,24/03/2015,8,6
+United Kingdom,24/03/2015,1,0
+United States of America,24/03/2015,4,1
+Liberia,24/03/2015,9602,4301
+Senegal,25/03/2015,1,0
+Liberia,25/03/2015,9602,4301
+Spain,25/03/2015,1,0
+Mali,25/03/2015,8,6
+Sierra Leone,25/03/2015,11841,3747
+United Kingdom,25/03/2015,1,0
+Guinea,25/03/2015,3429,2263
+Nigeria,25/03/2015,20,8
+United States of America,25/03/2015,4,1
+Spain,26/03/2015,1,0
+Guinea,26/03/2015,3459,2273
+Senegal,26/03/2015,1,0
+Sierra Leone,26/03/2015,11866,3764
+Liberia,26/03/2015,9602,4301
+Mali,26/03/2015,8,6
+Nigeria,26/03/2015,20,8
+United Kingdom,26/03/2015,1,0
+United States of America,26/03/2015,4,1
+Liberia,27/03/2015,9602,4301
+Spain,27/03/2015,1,0
+Mali,27/03/2015,8,6
+Nigeria,27/03/2015,20,8
+Senegal,27/03/2015,1,0
+United Kingdom,27/03/2015,1,0
+United States of America,27/03/2015,4,1
+Guinea,27/03/2015,3466,2276
+Sierra Leone,27/03/2015,11889,3773
+Spain,07/04/2015,1,0
+Mali,07/04/2015,8,6
+Senegal,07/04/2015,1,0
+Nigeria,07/04/2015,20,8
+Guinea,07/04/2015,3515,2333
+United Kingdom,07/04/2015,1,0
+Liberia,07/04/2015,9862,4408
+United States of America,07/04/2015,4,1
+Sierra Leone,07/04/2015,12139,3832
+Liberia,09/04/2015,9862,4408
+United Kingdom,09/04/2015,1,0
+United States of America,09/04/2015,4,1
+Mali,09/04/2015,8,6
+Senegal,09/04/2015,1,0
+Spain,09/04/2015,1,0
+Nigeria,09/04/2015,20,8
+Guinea,09/04/2015,3515,2335
+Sierra Leone,09/04/2015,12155,3841
+Sierra Leone,13/04/2015,12188,3854
+Senegal,13/04/2015,1,0
+Liberia,13/04/2015,9862,4408
+Mali,13/04/2015,8,6
+United States of America,13/04/2015,4,1
+Nigeria,13/04/2015,20,8
+Spain,13/04/2015,1,0
+United Kingdom,13/04/2015,1,0
+Guinea,13/04/2015,3541,2342
+Sierra Leone,14/04/2015,12201,3857
+United Kingdom,14/04/2015,1,0
+United States of America,14/04/2015,4,1
+Nigeria,14/04/2015,20,8
+Mali,14/04/2015,8,6
+Guinea,14/04/2015,3548,2346
+Liberia,14/04/2015,9862,4408
+Senegal,14/04/2015,1,0
+Spain,14/04/2015,1,0
+Mali,15/04/2015,8,6
+Sierra Leone,15/04/2015,12201,3857
+Liberia,15/04/2015,10042,4486
+Senegal,15/04/2015,1,0
+Guinea,15/04/2015,3548,2346
+United States of America,15/04/2015,4,1
+Spain,15/04/2015,1,0
+Nigeria,15/04/2015,20,8
+United Kingdom,15/04/2015,1,0
+Spain,16/04/2015,1,0
+United States of America,16/04/2015,4,1
+Mali,16/04/2015,8,6
+Sierra Leone,16/04/2015,12223,3865
+Nigeria,16/04/2015,20,8
+United Kingdom,16/04/2015,1,0
+Senegal,16/04/2015,1,0
+Liberia,16/04/2015,10042,4486
+Guinea,16/04/2015,3566,2348
+Guinea,17/04/2015,3569,2351
+Nigeria,17/04/2015,20,8
+United States of America,17/04/2015,4,1
+United Kingdom,17/04/2015,1,0
+Senegal,17/04/2015,1,0
+Liberia,17/04/2015,10042,4486
+Spain,17/04/2015,1,0
+Mali,17/04/2015,8,6
+Sierra Leone,17/04/2015,12244,3865
+United Kingdom,20/04/2015,1,0
+Mali,20/04/2015,8,6
+Sierra Leone,20/04/2015,12256,3872
+Senegal,20/04/2015,1,0
+Guinea,20/04/2015,3565,2357
+Liberia,20/04/2015,10042,4486
+Nigeria,20/04/2015,20,8
+Spain,20/04/2015,1,0
+United States of America,20/04/2015,4,1
+Spain,21/04/2015,1,0
+Liberia,21/04/2015,10042,4486
+Nigeria,21/04/2015,20,8
+Mali,21/04/2015,8,6
+Senegal,21/04/2015,1,0
+United States of America,21/04/2015,4,1
+Guinea,21/04/2015,3565,2358
+United Kingdom,21/04/2015,1,0
+Sierra Leone,21/04/2015,12265,3877
+United Kingdom,22/04/2015,1,0
+Spain,22/04/2015,1,0
+Sierra Leone,22/04/2015,12267,3877
+Mali,22/04/2015,8,6
+United States of America,22/04/2015,4,1
+Guinea,22/04/2015,3565,2358
+Senegal,22/04/2015,1,0
+Liberia,22/04/2015,10212,4573
+Nigeria,22/04/2015,20,8
+Mali,23/04/2015,8,6
+United Kingdom,23/04/2015,1,0
+Liberia,23/04/2015,10212,4573
+Guinea,23/04/2015,3568,2362
+Nigeria,23/04/2015,20,8
+Spain,23/04/2015,1,0
+Sierra Leone,23/04/2015,12294,3885
+United States of America,23/04/2015,4,1
+Senegal,23/04/2015,1,0
+Spain,24/04/2015,1,0
+United Kingdom,24/04/2015,1,0
+Mali,24/04/2015,8,6
+Nigeria,24/04/2015,20,8
+United States of America,24/04/2015,4,1
+Liberia,24/04/2015,10212,4573
+Guinea,24/04/2015,3576,2365
+Sierra Leone,24/04/2015,12313,3886
+Senegal,24/04/2015,1,0
+United Kingdom,27/04/2015,1,0
+Spain,27/04/2015,1,0
+Mali,27/04/2015,8,6
+Liberia,27/04/2015,10212,4573
+Nigeria,27/04/2015,20,8
+United States of America,27/04/2015,4,1
+Sierra Leone,27/04/2015,12362,3895
+Guinea,27/04/2015,3585,2374
+Senegal,27/04/2015,1,0
+Sierra Leone,28/04/2015,12371,3899
+Nigeria,28/04/2015,20,8
+Guinea,28/04/2015,3584,2377
+Senegal,28/04/2015,1,0
+United Kingdom,28/04/2015,1,0
+Spain,28/04/2015,1,0
+United States of America,28/04/2015,4,1
+Liberia,28/04/2015,10322,4608
+Mali,28/04/2015,8,6
+Senegal,30/04/2015,1,0
+Guinea,30/04/2015,3581,2381
+United States of America,30/04/2015,4,1
+Spain,30/04/2015,1,0
+United Kingdom,30/04/2015,1,0
+Nigeria,30/04/2015,20,8
+Mali,30/04/2015,8,6
+Sierra Leone,30/04/2015,12387,3901
+Liberia,30/04/2015,10322,4608
+Sierra Leone,01/05/2015,12398,3901
+Mali,01/05/2015,8,6
+Nigeria,01/05/2015,20,8
+United States of America,01/05/2015,4,1
+Guinea,01/05/2015,3578,2383
+Senegal,01/05/2015,1,0
+Liberia,01/05/2015,10322,4608
+United Kingdom,01/05/2015,1,0
+Spain,01/05/2015,1,0
+United Kingdom,04/05/2015,1,0
+Sierra Leone,04/05/2015,12426,3902
+Liberia,04/05/2015,10322,4608
+Mali,04/05/2015,8,6
+Nigeria,04/05/2015,20,8
+United States of America,04/05/2015,4,1
+Spain,04/05/2015,1,0
+Senegal,04/05/2015,1,0
+Guinea,04/05/2015,3591,2385
+Mali,05/05/2015,8,6
+Spain,05/05/2015,1,0
+Liberia,05/05/2015,10507,4691
+United States of America,05/05/2015,4,1
+Nigeria,05/05/2015,20,8
+Sierra Leone,05/05/2015,12440,3903
+United Kingdom,05/05/2015,1,0
+Senegal,05/05/2015,1,0
+Guinea,05/05/2015,3589,2386
+Guinea,06/05/2015,3589,2386
+Liberia,06/05/2015,10564,4716
+United Kingdom,06/05/2015,1,0
+Nigeria,06/05/2015,20,8
+Mali,06/05/2015,8,6
+United States of America,06/05/2015,4,1
+Sierra Leone,06/05/2015,12440,3903
+Senegal,06/05/2015,1,0
+Spain,06/05/2015,1,0
+Liberia,07/05/2015,10564,4716
+Spain,07/05/2015,1,0
+Mali,07/05/2015,8,6
+Sierra Leone,07/05/2015,12470,3904
+United States of America,07/05/2015,4,1
+United Kingdom,07/05/2015,1,0
+Senegal,07/05/2015,1,0
+Guinea,07/05/2015,3592,2387
+Nigeria,07/05/2015,20,8
+Senegal,08/05/2015,1,0
+Spain,08/05/2015,1,0
+Sierra Leone,08/05/2015,12492,3904
+United States of America,08/05/2015,4,1
+Nigeria,08/05/2015,20,8
+Liberia,08/05/2015,10564,4716
+United Kingdom,08/05/2015,1,0
+Mali,08/05/2015,8,6
+Guinea,08/05/2015,3592,2387
+United Kingdom,11/05/2015,1,0
+Guinea,11/05/2015,3599,2391
+Senegal,11/05/2015,1,0
+United States of America,11/05/2015,4,1
+Spain,11/05/2015,1,0
+Mali,11/05/2015,8,6
+Liberia,11/05/2015,10604,4769
+Nigeria,11/05/2015,20,8
+Sierra Leone,11/05/2015,12519,3904
+Senegal,12/05/2015,1,0
+Mali,12/05/2015,8,6
+Liberia,12/05/2015,10604,4769
+United States of America,12/05/2015,4,1
+United Kingdom,12/05/2015,1,0
+Sierra Leone,12/05/2015,12523,3904
+Nigeria,12/05/2015,20,8
+Guinea,12/05/2015,3597,2392
+Spain,12/05/2015,1,0
+Sierra Leone,13/05/2015,12519,3904
+United Kingdom,13/05/2015,1,0
+Senegal,13/05/2015,1,0
+Nigeria,13/05/2015,20,8
+Spain,13/05/2015,1,0
+Liberia,13/05/2015,10604,4769
+Mali,13/05/2015,8,6
+Guinea,13/05/2015,3599,2391
+United States of America,13/05/2015,4,1
+Nigeria,14/05/2015,20,8
+Spain,14/05/2015,1,0
+Liberia,14/05/2015,10604,4769
+United States of America,14/05/2015,4,1
+Mali,14/05/2015,8,6
+Guinea,14/05/2015,3615,2399
+Senegal,14/05/2015,1,0
+United Kingdom,14/05/2015,1,0
+Sierra Leone,14/05/2015,12536,3904
+Italy,14/05/2015,1,0
+Mali,15/05/2015,8,6
+Guinea,15/05/2015,3619,2401
+Sierra Leone,15/05/2015,12540,3904
+Nigeria,15/05/2015,20,8
+United Kingdom,15/05/2015,1,0
+Italy,15/05/2015,1,0
+Spain,15/05/2015,1,0
+United States of America,15/05/2015,4,1
+Senegal,15/05/2015,1,0
+Liberia,15/05/2015,10604,4769
+Nigeria,18/05/2015,20,8
+Spain,18/05/2015,1,0
+Sierra Leone,18/05/2015,12593,3906
+United Kingdom,18/05/2015,1,0
+Liberia,18/05/2015,10666,4806
+Senegal,18/05/2015,1,0
+Italy,18/05/2015,1,0
+Mali,18/05/2015,8,6
+United States of America,18/05/2015,4,1
+Guinea,18/05/2015,3626,2405
+Mali,19/05/2015,8,6
+Italy,19/05/2015,1,0
+Guinea,19/05/2015,3635,2407
+Sierra Leone,19/05/2015,12632,3907
+Spain,19/05/2015,1,0
+Nigeria,19/05/2015,20,8
+United Kingdom,19/05/2015,1,0
+United States of America,19/05/2015,4,1
+Liberia,19/05/2015,10666,4806
+Senegal,19/05/2015,1,0
+Spain,20/05/2015,1,0
+United Kingdom,20/05/2015,1,0
+Sierra Leone,20/05/2015,12632,3907
+Senegal,20/05/2015,1,0
+Nigeria,20/05/2015,20,8
+Italy,20/05/2015,1,0
+Guinea,20/05/2015,3635,2407
+Mali,20/05/2015,8,6
+Liberia,20/05/2015,10666,4806
+United States of America,20/05/2015,4,1
+Liberia,21/05/2015,10666,4806
+Italy,21/05/2015,1,0
+Spain,21/05/2015,1,0
+Sierra Leone,21/05/2015,12656,3907
+Nigeria,21/05/2015,20,8
+Senegal,21/05/2015,1,0
+Mali,21/05/2015,8,6
+United Kingdom,21/05/2015,1,0
+Guinea,21/05/2015,3649,2409
+United States of America,21/05/2015,4,1
+Spain,22/05/2015,1,0
+Mali,22/05/2015,8,6
+Liberia,22/05/2015,10666,4806
+Italy,22/05/2015,1,0
+United States of America,22/05/2015,4,1
+Sierra Leone,22/05/2015,12666,3907
+Guinea,22/05/2015,3647,2412
+Nigeria,22/05/2015,20,8
+United Kingdom,22/05/2015,1,0
+Senegal,22/05/2015,1,0
+Nigeria,25/05/2015,20,8
+Italy,25/05/2015,1,0
+United Kingdom,25/05/2015,1,0
+United States of America,25/05/2015,4,1
+Mali,25/05/2015,8,6
+Spain,25/05/2015,1,0
+Senegal,25/05/2015,1,0
+Liberia,25/05/2015,10666,4806
+Guinea,25/05/2015,3640,2418
+Sierra Leone,25/05/2015,12696,3908
+Nigeria,26/05/2015,20,8
+Senegal,26/05/2015,1,0
+Guinea,26/05/2015,3641,2420
+Mali,26/05/2015,8,6
+Italy,26/05/2015,1,0
+Spain,26/05/2015,1,0
+Sierra Leone,26/05/2015,12706,3908
+United Kingdom,26/05/2015,1,0
+Liberia,26/05/2015,10666,4806
+United States of America,26/05/2015,4,1
+Mali,27/05/2015,8,6
+Italy,27/05/2015,1,0
+Guinea,27/05/2015,3641,2420
+Nigeria,27/05/2015,20,8
+Sierra Leone,27/05/2015,12706,3908
+United States of America,27/05/2015,4,1
+Liberia,27/05/2015,10666,4806
+Spain,27/05/2015,1,0
+United Kingdom,27/05/2015,1,0
+Senegal,27/05/2015,1,0
+Italy,28/05/2015,1,0
+Mali,28/05/2015,8,6
+United States of America,28/05/2015,4,1
+Liberia,28/05/2015,10666,4806
+Spain,28/05/2015,1,0
+Senegal,28/05/2015,1,0
+Nigeria,28/05/2015,20,8
+Guinea,28/05/2015,3639,2423
+United Kingdom,28/05/2015,1,0
+Sierra Leone,28/05/2015,12735,3911
+Guinea,29/05/2015,3644,2425
+United Kingdom,29/05/2015,1,0
+Liberia,29/05/2015,10666,4806
+United States of America,29/05/2015,4,1
+Italy,29/05/2015,1,0
+Sierra Leone,29/05/2015,12745,3911
+Nigeria,29/05/2015,20,8
+Spain,29/05/2015,1,0
+Senegal,29/05/2015,1,0
+Mali,29/05/2015,8,6
+United Kingdom,01/06/2015,1,0
+United States of America,01/06/2015,4,1
+Sierra Leone,01/06/2015,12816,3911
+Nigeria,01/06/2015,20,8
+Spain,01/06/2015,1,0
+Senegal,01/06/2015,1,0
+Italy,01/06/2015,1,0
+Guinea,01/06/2015,3653,2428
+Liberia,01/06/2015,10666,4806
+Mali,01/06/2015,8,6
+Sierra Leone,02/06/2015,12827,3912
+Nigeria,02/06/2015,20,8
+Senegal,02/06/2015,1,0
+Guinea,02/06/2015,3652,2429
+Mali,02/06/2015,8,6
+United States of America,02/06/2015,4,1
+Liberia,02/06/2015,10666,4806
+Spain,02/06/2015,1,0
+Italy,02/06/2015,1,0
+United Kingdom,02/06/2015,1,0
+United States of America,03/06/2015,4,1
+United Kingdom,03/06/2015,1,0
+Senegal,03/06/2015,1,0
+Nigeria,03/06/2015,20,8
+Sierra Leone,03/06/2015,12827,3912
+Italy,03/06/2015,1,0
+Guinea,03/06/2015,3652,2429
+Spain,03/06/2015,1,0
+Mali,03/06/2015,8,6
+Liberia,03/06/2015,10666,4806
+Guinea,04/06/2015,3657,2431
+Sierra Leone,04/06/2015,12850,3912
+United States of America,04/06/2015,4,1
+Spain,04/06/2015,1,0
+Mali,04/06/2015,8,6
+Senegal,04/06/2015,1,0
+Liberia,04/06/2015,10666,4806
+Nigeria,04/06/2015,20,8
+United Kingdom,04/06/2015,1,0
+Italy,04/06/2015,1,0
+United Kingdom,05/06/2015,1,0
+Guinea,05/06/2015,3664,2431
+Italy,05/06/2015,1,0
+United States of America,05/06/2015,4,1
+Spain,05/06/2015,1,0
+Senegal,05/06/2015,1,0
+Liberia,05/06/2015,10666,4806
+Nigeria,05/06/2015,20,8
+Mali,05/06/2015,8,6
+Sierra Leone,05/06/2015,12859,3912
+Senegal,08/06/2015,1,0
+Nigeria,08/06/2015,20,8
+Sierra Leone,08/06/2015,12884,3913
+United States of America,08/06/2015,4,1
+Spain,08/06/2015,1,0
+Guinea,08/06/2015,3669,2435
+Liberia,08/06/2015,10666,4806
+Italy,08/06/2015,1,0
+Mali,08/06/2015,8,6
+United Kingdom,08/06/2015,1,0
+Sierra Leone,09/06/2015,12901,3915
+Spain,09/06/2015,1,0
+Liberia,09/06/2015,10666,4806
+United States of America,09/06/2015,4,1
+United Kingdom,09/06/2015,1,0
+Guinea,09/06/2015,3670,2437
+Mali,09/06/2015,8,6
+Nigeria,09/06/2015,20,8
+Senegal,09/06/2015,1,0
+Italy,09/06/2015,1,0
+Mali,10/06/2015,8,6
+United Kingdom,10/06/2015,1,0
+Senegal,10/06/2015,1,0
+Italy,10/06/2015,1,0
+Spain,10/06/2015,1,0
+United States of America,10/06/2015,4,1
+Liberia,10/06/2015,10666,4806
+Guinea,10/06/2015,3670,2437
+Nigeria,10/06/2015,20,8
+Sierra Leone,10/06/2015,12901,3915
+Italy,11/06/2015,1,0
+United States of America,11/06/2015,4,1
+Guinea,11/06/2015,3674,2440
+Spain,11/06/2015,1,0
+Mali,11/06/2015,8,6
+Nigeria,11/06/2015,20,8
+Senegal,11/06/2015,1,0
+Liberia,11/06/2015,10666,4806
+United Kingdom,11/06/2015,1,0
+Sierra Leone,11/06/2015,12911,3917
+Liberia,12/06/2015,10666,4806
+Guinea,12/06/2015,3677,2440
+Nigeria,12/06/2015,20,8
+Mali,12/06/2015,8,6
+Spain,12/06/2015,1,0
+United States of America,12/06/2015,4,1
+Sierra Leone,12/06/2015,12932,3917
+United Kingdom,12/06/2015,1,0
+Italy,12/06/2015,1,0
+Senegal,12/06/2015,1,0
+Spain,15/06/2015,1,0
+United States of America,15/06/2015,4,1
+Mali,15/06/2015,8,6
+Guinea,15/06/2015,3677,2443
+Liberia,15/06/2015,10666,4806
+Italy,15/06/2015,1,0
+Sierra Leone,15/06/2015,12962,3919
+Nigeria,15/06/2015,20,8
+United Kingdom,15/06/2015,1,0
+Senegal,15/06/2015,1,0
+Guinea,16/06/2015,3678,2444
+Liberia,16/06/2015,10666,4806
+Mali,16/06/2015,8,6
+United Kingdom,16/06/2015,1,0
+Sierra Leone,16/06/2015,12965,3919
+United States of America,16/06/2015,4,1
+Senegal,16/06/2015,1,0
+Italy,16/06/2015,1,0
+Nigeria,16/06/2015,20,8
+Spain,16/06/2015,1,0
+United States of America,17/06/2015,4,1
+Sierra Leone,17/06/2015,12965,3919
+Nigeria,17/06/2015,20,8
+United Kingdom,17/06/2015,1,0
+Italy,17/06/2015,1,0
+Senegal,17/06/2015,1,0
+Spain,17/06/2015,1,0
+Mali,17/06/2015,8,6
+Guinea,17/06/2015,3674,2444
+Liberia,17/06/2015,10666,4806
+Sierra Leone,18/06/2015,12990,3922
+Liberia,18/06/2015,10666,4806
+United States of America,18/06/2015,4,1
+Italy,18/06/2015,1,0
+Senegal,18/06/2015,1,0
+United Kingdom,18/06/2015,1,0
+Spain,18/06/2015,1,0
+Nigeria,18/06/2015,20,8
+Guinea,18/06/2015,3675,2445
+Mali,18/06/2015,8,6
+Mali,19/06/2015,8,6
+Sierra Leone,19/06/2015,13012,3926
+Nigeria,19/06/2015,20,8
+Spain,19/06/2015,1,0
+United States of America,19/06/2015,4,1
+Senegal,19/06/2015,1,0
+United Kingdom,19/06/2015,1,0
+Italy,19/06/2015,1,0
+Liberia,19/06/2015,10666,4806
+Guinea,19/06/2015,3674,2446
+Liberia,22/06/2015,10666,4806
+Spain,22/06/2015,1,0
+United Kingdom,22/06/2015,1,0
+Italy,22/06/2015,1,0
+Guinea,22/06/2015,3698,2456
+Sierra Leone,22/06/2015,13051,3928
+Mali,22/06/2015,8,6
+United States of America,22/06/2015,4,1
+Nigeria,22/06/2015,20,8
+Senegal,22/06/2015,1,0
+Italy,23/06/2015,1,0
+Sierra Leone,23/06/2015,13059,3928
+Liberia,23/06/2015,10666,4806
+United Kingdom,23/06/2015,1,0
+Nigeria,23/06/2015,20,8
+Senegal,23/06/2015,1,0
+United States of America,23/06/2015,4,1
+Spain,23/06/2015,1,0
+Mali,23/06/2015,8,6
+Guinea,23/06/2015,3718,2473
+United States of America,24/06/2015,4,1
+Sierra Leone,24/06/2015,13059,3928
+Senegal,24/06/2015,1,0
+United Kingdom,24/06/2015,1,0
+Guinea,24/06/2015,3718,2473
+Liberia,24/06/2015,10666,4806
+Mali,24/06/2015,8,6
+Italy,24/06/2015,1,0
+Nigeria,24/06/2015,20,8
+Spain,24/06/2015,1,0
+Nigeria,25/06/2015,20,8
+Sierra Leone,25/06/2015,13083,3931
+Senegal,25/06/2015,1,0
+Mali,25/06/2015,8,6
+Spain,25/06/2015,1,0
+United Kingdom,25/06/2015,1,0
+Liberia,25/06/2015,10666,4806
+United States of America,25/06/2015,4,1
+Guinea,25/06/2015,3718,2480
+Italy,25/06/2015,1,0
+Guinea,26/06/2015,3720,2480
+Spain,26/06/2015,1,0
+Senegal,26/06/2015,1,0
+Italy,26/06/2015,1,0
+Sierra Leone,26/06/2015,13093,3931
+Liberia,26/06/2015,10666,4806
+United Kingdom,26/06/2015,1,0
+Mali,26/06/2015,8,6
+Nigeria,26/06/2015,20,8
+United States of America,26/06/2015,4,1
+Senegal,29/06/2015,1,0
+United Kingdom,29/06/2015,1,0
+Nigeria,29/06/2015,20,8
+Guinea,29/06/2015,3724,2482
+Sierra Leone,29/06/2015,13115,3932
+Mali,29/06/2015,8,6
+Spain,29/06/2015,1,0
+Liberia,29/06/2015,10666,4806
+United States of America,29/06/2015,4,1
+Italy,29/06/2015,1,0
+United Kingdom,30/06/2015,1,0
+Mali,30/06/2015,8,6
+Liberia,30/06/2015,10666,4806
+Sierra Leone,30/06/2015,13119,3932
+Italy,30/06/2015,1,0
+Senegal,30/06/2015,1,0
+Guinea,30/06/2015,3729,2482
+Spain,30/06/2015,1,0
+Nigeria,30/06/2015,20,8
+United States of America,30/06/2015,4,1
+Sierra Leone,01/07/2015,13119,3932
+Senegal,01/07/2015,1,0
+Spain,01/07/2015,1,0
+United Kingdom,01/07/2015,1,0
+Guinea,01/07/2015,3729,2482
+Italy,01/07/2015,1,0
+Liberia,01/07/2015,10666,4806
+United States of America,01/07/2015,4,1
+Nigeria,01/07/2015,20,8
+Mali,01/07/2015,8,6
+Senegal,02/07/2015,1,0
+Italy,02/07/2015,1,0
+Liberia,02/07/2015,10666,4806
+Guinea,02/07/2015,3745,2490
+United States of America,02/07/2015,4,1
+Spain,02/07/2015,1,0
+Nigeria,02/07/2015,20,8
+Mali,02/07/2015,8,6
+Sierra Leone,02/07/2015,13129,3933
+United Kingdom,02/07/2015,1,0
+Liberia,03/07/2015,10666,4806
+United Kingdom,03/07/2015,1,0
+Nigeria,03/07/2015,20,8
+Senegal,03/07/2015,1,0
+United States of America,03/07/2015,4,1
+Guinea,03/07/2015,3750,2492
+Italy,03/07/2015,1,0
+Liberia,03/07/2015,40,5
+Spain,03/07/2015,1,0
+Mali,03/07/2015,8,6
+Sierra Leone,03/07/2015,13135,3935
+United Kingdom,06/07/2015,1,0
+Spain,06/07/2015,1,0
+Guinea,06/07/2015,3744,2498
+United States of America,06/07/2015,4,1
+Liberia,06/07/2015,4,1
+Nigeria,06/07/2015,20,8
+Mali,06/07/2015,8,6
+Sierra Leone,06/07/2015,13150,3940
+Senegal,06/07/2015,1,0
+Liberia,06/07/2015,10666,4806
+Italy,06/07/2015,1,0
+Italy,07/07/2015,1,0
+Spain,07/07/2015,1,0
+Liberia,07/07/2015,4,1
+Nigeria,07/07/2015,20,8
+United States of America,07/07/2015,4,1
+Sierra Leone,07/07/2015,13155,3940
+Senegal,07/07/2015,1,0
+Liberia,07/07/2015,10666,4806
+Guinea,07/07/2015,3748,2499
+Mali,07/07/2015,8,6
+United Kingdom,07/07/2015,1,0
+Nigeria,08/07/2015,20,8
+Liberia,08/07/2015,4,1
+United States of America,08/07/2015,4,1
+Spain,08/07/2015,1,0
+Sierra Leone,08/07/2015,13155,3940
+Mali,08/07/2015,8,6
+United Kingdom,08/07/2015,1,0
+Guinea,08/07/2015,3748,2499
+Italy,08/07/2015,1,0
+Senegal,08/07/2015,1,0
+Liberia,08/07/2015,10666,4806
+Liberia,09/07/2015,10666,4806
+Senegal,09/07/2015,1,0
+Nigeria,09/07/2015,20,8
+Liberia,09/07/2015,6,1
+United Kingdom,09/07/2015,1,0
+United States of America,09/07/2015,4,1
+Italy,09/07/2015,1,0
+Sierra Leone,09/07/2015,13169,3941
+Guinea,09/07/2015,3744,2505
+Mali,09/07/2015,8,6
+Spain,09/07/2015,1,0
+Senegal,10/07/2015,1,0
+Mali,10/07/2015,8,6
+Sierra Leone,10/07/2015,13177,3941
+Nigeria,10/07/2015,20,8
+Italy,10/07/2015,1,0
+Guinea,10/07/2015,3751,2505
+Liberia,10/07/2015,6,1
+Spain,10/07/2015,1,0
+United States of America,10/07/2015,4,1
+United Kingdom,10/07/2015,1,0
+Liberia,10/07/2015,10666,4806
+Nigeria,13/07/2015,20,8
+Liberia,13/07/2015,10666,4806
+Spain,13/07/2015,1,0
+Liberia,13/07/2015,6,1
+Senegal,13/07/2015,1,0
+Mali,13/07/2015,8,6
+United Kingdom,13/07/2015,1,0
+United States of America,13/07/2015,4,1
+Guinea,13/07/2015,3754,2506
+Italy,13/07/2015,1,0
+Sierra Leone,13/07/2015,13201,3946
+Senegal,14/07/2015,1,0
+United Kingdom,14/07/2015,1,0
+Liberia,14/07/2015,7,2
+Guinea,14/07/2015,3760,2506
+Spain,14/07/2015,1,0
+Liberia,14/07/2015,10666,4806
+Mali,14/07/2015,8,6
+Italy,14/07/2015,1,0
+United States of America,14/07/2015,4,1
+Sierra Leone,14/07/2015,13209,3947
+Nigeria,14/07/2015,20,8
+Spain,15/07/2015,1,0
+Nigeria,15/07/2015,20,8
+Italy,15/07/2015,1,0
+United Kingdom,15/07/2015,1,0
+United States of America,15/07/2015,4,1
+Guinea,15/07/2015,3760,2506
+Liberia,15/07/2015,10666,4806
+Liberia,15/07/2015,7,2
+Mali,15/07/2015,8,6
+Sierra Leone,15/07/2015,13209,3947
+Senegal,15/07/2015,1,0
+Mali,16/07/2015,8,6
+Italy,16/07/2015,1,0
+Guinea,16/07/2015,3762,2506
+Liberia,16/07/2015,10666,4806
+Spain,16/07/2015,1,0
+United Kingdom,16/07/2015,1,0
+Senegal,16/07/2015,1,0
+United States of America,16/07/2015,4,1
+Liberia,16/07/2015,6,2
+Sierra Leone,16/07/2015,13209,3947
+Nigeria,16/07/2015,20,8
+United States of America,17/07/2015,4,1
+Liberia,17/07/2015,10666,4806
+United Kingdom,17/07/2015,1,0
+Guinea,17/07/2015,3770,2509
+Italy,17/07/2015,1,0
+Nigeria,17/07/2015,20,8
+Liberia,17/07/2015,7,2
+Mali,17/07/2015,8,6
+Spain,17/07/2015,1,0
+Senegal,17/07/2015,1,0
+Sierra Leone,17/07/2015,13209,3947
+Nigeria,20/07/2015,20,8
+Liberia,20/07/2015,10666,4806
+Senegal,20/07/2015,1,0
+Guinea,20/07/2015,3784,2511
+United Kingdom,20/07/2015,1,0
+United States of America,20/07/2015,4,1
+Liberia,20/07/2015,7,2
+Italy,20/07/2015,1,0
+Sierra Leone,20/07/2015,13241,3949
+Mali,20/07/2015,8,6
+Spain,20/07/2015,1,0
+Liberia,21/07/2015,7,2
+Guinea,21/07/2015,3783,2512
+United States of America,21/07/2015,4,1
+Sierra Leone,21/07/2015,13250,3949
+United Kingdom,21/07/2015,1,0
+Spain,21/07/2015,1,0
+Liberia,21/07/2015,10666,4806
+Senegal,21/07/2015,1,0
+Mali,21/07/2015,8,6
+Nigeria,21/07/2015,20,8
+Italy,21/07/2015,1,0
+Sierra Leone,22/07/2015,13250,3949
+Spain,22/07/2015,1,0
+Guinea,22/07/2015,3783,2512
+Nigeria,22/07/2015,20,8
+Italy,22/07/2015,1,0
+Liberia,22/07/2015,6,2
+Senegal,22/07/2015,1,0
+United States of America,22/07/2015,4,1
+Liberia,22/07/2015,10666,4806
+Mali,22/07/2015,8,6
+United Kingdom,22/07/2015,1,0
+United States of America,23/07/2015,4,1
+Spain,23/07/2015,1,0
+Sierra Leone,23/07/2015,13262,3949
+Guinea,23/07/2015,3788,2516
+Liberia,23/07/2015,10666,4806
+United Kingdom,23/07/2015,1,0
+Nigeria,23/07/2015,20,8
+Mali,23/07/2015,8,6
+Senegal,23/07/2015,1,0
+Liberia,23/07/2015,7,2
+Italy,23/07/2015,1,0
+United States of America,24/07/2015,4,1
+Liberia,24/07/2015,7,2
+Mali,24/07/2015,8,6
+Liberia,24/07/2015,10666,4806
+Sierra Leone,24/07/2015,13264,3949
+Italy,24/07/2015,1,0
+Senegal,24/07/2015,1,0
+Guinea,24/07/2015,3787,2517
+Nigeria,24/07/2015,20,8
+Spain,24/07/2015,1,0
+United Kingdom,24/07/2015,1,0
+Spain,27/07/2015,1,0
+Mali,27/07/2015,8,6
+Senegal,27/07/2015,1,0
+Nigeria,27/07/2015,20,8
+Liberia,27/07/2015,10666,4806
+United States of America,27/07/2015,4,1
+Guinea,27/07/2015,3792,2519
+United Kingdom,27/07/2015,1,0
+Italy,27/07/2015,1,0
+Liberia,27/07/2015,7,2
+Sierra Leone,27/07/2015,13283,3951
+United States of America,28/07/2015,4,1
+Spain,28/07/2015,1,0
+Mali,28/07/2015,8,6
+United Kingdom,28/07/2015,1,0
+Sierra Leone,28/07/2015,13290,3951
+Guinea,28/07/2015,3786,2520
+Nigeria,28/07/2015,20,8
+Senegal,28/07/2015,1,0
+Italy,28/07/2015,1,0
+Liberia,28/07/2015,10666,4806
+Liberia,28/07/2015,7,2
+Nigeria,29/07/2015,20,8
+Sierra Leone,29/07/2015,13290,3951
+Liberia,29/07/2015,10666,4806
+United States of America,29/07/2015,4,1
+Senegal,29/07/2015,1,0
+Liberia,29/07/2015,6,2
+Spain,29/07/2015,1,0
+Mali,29/07/2015,8,6
+United Kingdom,29/07/2015,1,0
+Italy,29/07/2015,1,0
+Guinea,29/07/2015,3786,2520
+Guinea,30/07/2015,3785,2521
+Senegal,30/07/2015,1,0
+Spain,30/07/2015,1,0
+Mali,30/07/2015,8,6
+Sierra Leone,30/07/2015,13379,3951
+Nigeria,30/07/2015,20,8
+Italy,30/07/2015,1,0
+United States of America,30/07/2015,4,1
+Liberia,30/07/2015,6,2
+United Kingdom,30/07/2015,1,0
+Liberia,30/07/2015,10666,4806
+Nigeria,31/07/2015,20,8
+Senegal,31/07/2015,1,0
+United States of America,31/07/2015,4,1
+Liberia,31/07/2015,6,2
+Sierra Leone,31/07/2015,13387,3951
+United Kingdom,31/07/2015,1,0
+Guinea,31/07/2015,3781,2521
+Spain,31/07/2015,1,0
+Italy,31/07/2015,1,0
+Liberia,31/07/2015,10666,4806
+Mali,31/07/2015,8,6
+United Kingdom,03/08/2015,1,0
+Liberia,03/08/2015,6,2
+Sierra Leone,03/08/2015,13402,3951
+Italy,03/08/2015,1,0
+United States of America,03/08/2015,4,1
+Nigeria,03/08/2015,20,8
+Liberia,03/08/2015,10666,4806
+Guinea,03/08/2015,3786,2522
+Spain,03/08/2015,1,0
+Senegal,03/08/2015,1,0
+Mali,03/08/2015,8,6
+Spain,04/08/2015,1,0
+Sierra Leone,04/08/2015,13406,3951
+Liberia,04/08/2015,10666,4806
+United Kingdom,04/08/2015,1,0
+Italy,04/08/2015,1,0
+United States of America,04/08/2015,4,1
+Senegal,04/08/2015,1,0
+Mali,04/08/2015,8,6
+Nigeria,04/08/2015,20,8
+Guinea,04/08/2015,3784,2522
+Liberia,04/08/2015,6,2
+Guinea,05/08/2015,3784,2522
+Spain,05/08/2015,1,0
+Mali,05/08/2015,8,6
+Sierra Leone,05/08/2015,13406,3951
+Liberia,05/08/2015,10666,4806
+Italy,05/08/2015,1,0
+Senegal,05/08/2015,1,0
+Liberia,05/08/2015,6,2
+United States of America,05/08/2015,4,1
+United Kingdom,05/08/2015,1,0
+Nigeria,05/08/2015,20,8
+Spain,06/08/2015,1,0
+Guinea,06/08/2015,3792,2524
+Senegal,06/08/2015,1,0
+Mali,06/08/2015,8,6
+Nigeria,06/08/2015,20,8
+United Kingdom,06/08/2015,1,0
+Sierra Leone,06/08/2015,13426,3951
+Liberia,06/08/2015,10666,4806
+Liberia,06/08/2015,6,2
+United States of America,06/08/2015,4,1
+Italy,06/08/2015,1,0
+Liberia,07/08/2015,6,2
+Spain,07/08/2015,1,0
+Sierra Leone,07/08/2015,13428,3951
+United States of America,07/08/2015,4,1
+Liberia,07/08/2015,10666,4806
+Guinea,07/08/2015,3795,2524
+Senegal,07/08/2015,1,0
+United Kingdom,07/08/2015,1,0
+Nigeria,07/08/2015,20,8
+Italy,07/08/2015,1,0
+Mali,07/08/2015,8,6
+Liberia,10/08/2015,6,2
+United Kingdom,10/08/2015,1,0
+Sierra Leone,10/08/2015,13465,3951
+Senegal,10/08/2015,1,0
+Liberia,10/08/2015,10666,4806
+Spain,10/08/2015,1,0
+Guinea,10/08/2015,3791,2524
+Mali,10/08/2015,8,6
+United States of America,10/08/2015,4,1
+Italy,10/08/2015,1,0
+Nigeria,10/08/2015,20,8
+Spain,11/08/2015,1,0
+Guinea,11/08/2015,3787,2524
+Italy,11/08/2015,1,0
+Liberia,11/08/2015,6,2
+United States of America,11/08/2015,4,1
+Sierra Leone,11/08/2015,13470,3951
+Senegal,11/08/2015,1,0
+Nigeria,11/08/2015,20,8
+United Kingdom,11/08/2015,1,0
+Mali,11/08/2015,8,6
+Liberia,11/08/2015,10666,4806
+Liberia,12/08/2015,6,2
+Spain,12/08/2015,1,0
+United Kingdom,12/08/2015,1,0
+Nigeria,12/08/2015,20,8
+United States of America,12/08/2015,4,1
+Italy,12/08/2015,1,0
+Mali,12/08/2015,8,6
+Liberia,12/08/2015,10666,4806
+Senegal,12/08/2015,1,0
+Guinea,12/08/2015,3787,2524
+Sierra Leone,12/08/2015,13470,3951
+Senegal,13/08/2015,1,0
+Guinea,13/08/2015,3792,2524
+Sierra Leone,13/08/2015,13484,3951
+Italy,13/08/2015,1,0
+Spain,13/08/2015,1,0
+United Kingdom,13/08/2015,1,0
+Mali,13/08/2015,8,6
+United States of America,13/08/2015,4,1
+Nigeria,13/08/2015,20,8
+Liberia,13/08/2015,6,2
+Liberia,13/08/2015,10666,4806
+Senegal,14/08/2015,1,0
+Mali,14/08/2015,8,6
+Spain,14/08/2015,1,0
+Nigeria,14/08/2015,20,8
+United States of America,14/08/2015,4,1
+Italy,14/08/2015,1,0
+Guinea,14/08/2015,3791,2524
+Sierra Leone,14/08/2015,13485,3952
+Liberia,14/08/2015,6,2
+Liberia,14/08/2015,10666,4806
+United Kingdom,14/08/2015,1,0
+Guinea,17/08/2015,3790,2524
+Senegal,17/08/2015,1,0
+Liberia,17/08/2015,6,2
+Spain,17/08/2015,1,0
+Sierra Leone,17/08/2015,13489,3952
+Italy,17/08/2015,1,0
+United States of America,17/08/2015,4,1
+Nigeria,17/08/2015,20,8
+Liberia,17/08/2015,10666,4806
+Mali,17/08/2015,8,6
+United Kingdom,17/08/2015,1,0
+United Kingdom,18/08/2015,1,0
+Spain,18/08/2015,1,0
+Sierra Leone,18/08/2015,13494,3952
+Italy,18/08/2015,1,0
+Liberia,18/08/2015,10666,4806
+Guinea,18/08/2015,3786,2524
+United States of America,18/08/2015,4,1
+Senegal,18/08/2015,1,0
+Nigeria,18/08/2015,20,8
+Liberia,18/08/2015,6,2
+Mali,18/08/2015,8,6
+Liberia,19/08/2015,6,2
+Italy,19/08/2015,1,0
+Senegal,19/08/2015,1,0
+Nigeria,19/08/2015,20,8
+Spain,19/08/2015,1,0
+Guinea,19/08/2015,3786,2524
+United Kingdom,19/08/2015,1,0
+Mali,19/08/2015,8,6
+Sierra Leone,19/08/2015,13494,3952
+Liberia,19/08/2015,10666,4806
+United States of America,19/08/2015,4,1
+Senegal,20/08/2015,1,0
+Guinea,20/08/2015,3792,2526
+Liberia,20/08/2015,10666,4806
+Spain,20/08/2015,1,0
+Mali,20/08/2015,8,6
+Nigeria,20/08/2015,20,8
+United Kingdom,20/08/2015,1,0
+Italy,20/08/2015,1,0
+Sierra Leone,20/08/2015,13518,3952
+United States of America,20/08/2015,4,1
+Liberia,20/08/2015,6,2
+Senegal,21/08/2015,1,0
+Italy,21/08/2015,1,0
+Liberia,21/08/2015,6,2
+Spain,21/08/2015,1,0
+United States of America,21/08/2015,4,1
+Guinea,21/08/2015,3795,2526
+Liberia,21/08/2015,10666,4806
+Nigeria,21/08/2015,20,8
+Mali,21/08/2015,8,6
+Sierra Leone,21/08/2015,13533,3952
+United Kingdom,21/08/2015,1,0
+Liberia,24/08/2015,6,2
+Senegal,24/08/2015,1,0
+Guinea,24/08/2015,3790,2527
+United Kingdom,24/08/2015,1,0
+Mali,24/08/2015,8,6
+Spain,24/08/2015,1,0
+Nigeria,24/08/2015,20,8
+Italy,24/08/2015,1,0
+United States of America,24/08/2015,4,1
+Liberia,24/08/2015,10666,4806
+Sierra Leone,24/08/2015,13538,3952
+Italy,25/08/2015,1,0
+Senegal,25/08/2015,1,0
+United States of America,25/08/2015,4,1
+Liberia,25/08/2015,10666,4806
+Liberia,25/08/2015,6,2
+Spain,25/08/2015,1,0
+Sierra Leone,25/08/2015,13541,3952
+Mali,25/08/2015,8,6
+Nigeria,25/08/2015,20,8
+Guinea,25/08/2015,3792,2527
+United Kingdom,25/08/2015,1,0
+Liberia,26/08/2015,6,2
+Mali,26/08/2015,8,6
+United States of America,26/08/2015,4,1
+Italy,26/08/2015,1,0
+Nigeria,26/08/2015,20,8
+Sierra Leone,26/08/2015,13541,3952
+Spain,26/08/2015,1,0
+Guinea,26/08/2015,3792,2527
+United Kingdom,26/08/2015,1,0
+Senegal,26/08/2015,1,0
+Liberia,26/08/2015,10666,4806
+Liberia,27/08/2015,6,2
+Mali,27/08/2015,8,6
+Nigeria,27/08/2015,20,8
+Guinea,27/08/2015,3797,2528
+Italy,27/08/2015,1,0
+Spain,27/08/2015,1,0
+Sierra Leone,27/08/2015,13582,3952
+Liberia,27/08/2015,10666,4806
+United Kingdom,27/08/2015,1,0
+Senegal,27/08/2015,1,0
+United States of America,27/08/2015,4,1
+Liberia,28/08/2015,10666,4806
+Mali,28/08/2015,8,6
+United States of America,28/08/2015,4,1
+Spain,28/08/2015,1,0
+Senegal,28/08/2015,1,0
+Liberia,28/08/2015,6,2
+Nigeria,28/08/2015,20,8
+Italy,28/08/2015,1,0
+Guinea,28/08/2015,3797,2528
+United Kingdom,28/08/2015,1,0
+Sierra Leone,28/08/2015,13586,3952
+Mali,31/08/2015,8,6
+Liberia,31/08/2015,6,2
+Guinea,31/08/2015,3790,2528
+Sierra Leone,31/08/2015,13603,3953
+Nigeria,31/08/2015,20,8
+Senegal,31/08/2015,1,0
+Liberia,31/08/2015,10666,4806
+Spain,31/08/2015,1,0
+United States of America,31/08/2015,4,1
+United Kingdom,31/08/2015,1,0
+Italy,31/08/2015,1,0
+Spain,01/09/2015,1,0
+Guinea,01/09/2015,3792,2529
+Liberia,01/09/2015,10666,4806
+Sierra Leone,01/09/2015,13609,3953
+United States of America,01/09/2015,4,1
+Liberia,01/09/2015,6,2
+Mali,01/09/2015,8,6
+Italy,01/09/2015,1,0
+United Kingdom,01/09/2015,1,0
+Senegal,01/09/2015,1,0
+Nigeria,01/09/2015,20,8
+Sierra Leone,02/09/2015,13609,3953
+Mali,02/09/2015,8,6
+United States of America,02/09/2015,4,1
+United Kingdom,02/09/2015,1,0
+Guinea,02/09/2015,3792,2529
+Liberia,02/09/2015,10666,4806
+Spain,02/09/2015,1,0
+Senegal,02/09/2015,1,0
+Italy,02/09/2015,1,0
+Nigeria,02/09/2015,20,8
+Liberia,02/09/2015,6,2
+Italy,03/09/2015,1,0
+Spain,03/09/2015,1,0
+Mali,03/09/2015,8,6
+United States of America,03/09/2015,4,1
+Guinea,03/09/2015,3792,2529
+Senegal,03/09/2015,1,0
+United Kingdom,03/09/2015,1,0
+Liberia,03/09/2015,10666,4806
+Nigeria,03/09/2015,20,8
+Liberia,03/09/2015,6,2
+Sierra Leone,03/09/2015,13638,3953
+Spain,04/09/2015,1,0
+United States of America,04/09/2015,4,1
+Italy,04/09/2015,1,0
+Liberia,04/09/2015,10666,4806
+Senegal,04/09/2015,1,0
+Nigeria,04/09/2015,20,8
+Guinea,04/09/2015,3792,2529
+Sierra Leone,04/09/2015,13639,3953
+Liberia,04/09/2015,6,2
+United Kingdom,04/09/2015,1,0
+Mali,04/09/2015,8,6
+Nigeria,07/09/2015,20,8
+Mali,07/09/2015,8,6
+Guinea,07/09/2015,3793,2530
+Liberia,07/09/2015,6,2
+Senegal,07/09/2015,1,0
+Italy,07/09/2015,1,0
+Spain,07/09/2015,1,0
+United States of America,07/09/2015,4,1
+United Kingdom,07/09/2015,1,0
+Sierra Leone,07/09/2015,13670,3953
+Liberia,07/09/2015,10666,4806
+Senegal,08/09/2015,1,0
+Liberia,08/09/2015,6,2
+Nigeria,08/09/2015,20,8
+Guinea,08/09/2015,3792,2530
+United States of America,08/09/2015,4,1
+Sierra Leone,08/09/2015,13683,3953
+United Kingdom,08/09/2015,1,0
+Mali,08/09/2015,8,6
+Italy,08/09/2015,1,0
+Liberia,08/09/2015,10666,4806
+Spain,08/09/2015,1,0
+Sierra Leone,09/09/2015,13683,3953
+Italy,09/09/2015,1,0
+United Kingdom,09/09/2015,1,0
+Senegal,09/09/2015,1,0
+Guinea,09/09/2015,3792,2530
+Liberia,09/09/2015,10666,4806
+United States of America,09/09/2015,4,1
+Liberia,09/09/2015,6,2
+Mali,09/09/2015,8,6
+Spain,09/09/2015,1,0
+Nigeria,09/09/2015,20,8
+Nigeria,10/09/2015,20,8
+Guinea,10/09/2015,3791,2530
+Liberia,10/09/2015,6,2
+Sierra Leone,10/09/2015,13697,3953
+Italy,10/09/2015,1,0
+United States of America,10/09/2015,4,1
+Liberia,10/09/2015,10666,4806
+United Kingdom,10/09/2015,1,0
+Spain,10/09/2015,1,0
+Mali,10/09/2015,8,6
+Senegal,10/09/2015,1,0
+Sierra Leone,11/09/2015,13701,3953
+Nigeria,11/09/2015,20,8
+Mali,11/09/2015,8,6
+Liberia,11/09/2015,10666,4806
+Italy,11/09/2015,1,0
+Guinea,11/09/2015,3791,2530
+Liberia,11/09/2015,6,2
+United States of America,11/09/2015,4,1
+Spain,11/09/2015,1,0
+Senegal,11/09/2015,1,0
+United Kingdom,11/09/2015,1,0
+Spain,14/09/2015,1,0
+Liberia,14/09/2015,6,2
+Senegal,14/09/2015,1,0
+Italy,14/09/2015,1,0
+Guinea,14/09/2015,3793,2530
+Nigeria,14/09/2015,20,8
+Sierra Leone,14/09/2015,13747,3953
+United Kingdom,14/09/2015,1,0
+United States of America,14/09/2015,4,1
+Liberia,14/09/2015,10666,4806
+Mali,14/09/2015,8,6
+Senegal,15/09/2015,1,0
+Italy,15/09/2015,1,0
+United States of America,15/09/2015,4,1
+Spain,15/09/2015,1,0
+Sierra Leone,15/09/2015,13756,3953
+United Kingdom,15/09/2015,1,0
+Nigeria,15/09/2015,20,8
+Liberia,15/09/2015,10666,4806
+Guinea,15/09/2015,3792,2530
+Mali,15/09/2015,8,6
+Liberia,15/09/2015,6,2
+Guinea,16/09/2015,3792,2530
+Liberia,16/09/2015,10666,4806
+Senegal,16/09/2015,1,0
+United Kingdom,16/09/2015,1,0
+Spain,16/09/2015,1,0
+Italy,16/09/2015,1,0
+Mali,16/09/2015,8,6
+United States of America,16/09/2015,4,1
+Liberia,16/09/2015,6,2
+Sierra Leone,16/09/2015,13756,3953
+Nigeria,16/09/2015,20,8
+Sierra Leone,17/09/2015,13779,3955
+Liberia,17/09/2015,6,2
+Mali,17/09/2015,8,6
+Spain,17/09/2015,1,0
+Senegal,17/09/2015,1,0
+Guinea,17/09/2015,3794,2530
+Liberia,17/09/2015,10666,4806
+United States of America,17/09/2015,4,1
+Nigeria,17/09/2015,20,8
+United Kingdom,17/09/2015,1,0
+Italy,17/09/2015,1,0
+Liberia,18/09/2015,6,2
+Senegal,18/09/2015,1,0
+Nigeria,18/09/2015,20,8
+United Kingdom,18/09/2015,1,0
+Liberia,18/09/2015,10666,4806
+Spain,18/09/2015,1,0
+Mali,18/09/2015,8,6
+United States of America,18/09/2015,4,1
+Guinea,18/09/2015,3794,2531
+Sierra Leone,18/09/2015,13785,3955
+Italy,18/09/2015,1,0
+Liberia,21/09/2015,10666,4806
+Nigeria,21/09/2015,20,8
+Mali,21/09/2015,8,6
+United Kingdom,21/09/2015,1,0
+Guinea,21/09/2015,3797,2532
+Senegal,21/09/2015,1,0
+United States of America,21/09/2015,4,1
+Liberia,21/09/2015,6,2
+Italy,21/09/2015,1,0
+Sierra Leone,21/09/2015,13811,3955
+Spain,21/09/2015,1,0
+Nigeria,22/09/2015,20,8
+Italy,22/09/2015,1,0
+United States of America,22/09/2015,4,1
+Liberia,22/09/2015,6,2
+Spain,22/09/2015,1,0
+Sierra Leone,22/09/2015,13823,3955
+Mali,22/09/2015,8,6
+United Kingdom,22/09/2015,1,0
+Guinea,22/09/2015,3800,2532
+Liberia,22/09/2015,10666,4806
+Senegal,22/09/2015,1,0
+Nigeria,23/09/2015,20,8
+Spain,23/09/2015,1,0
+United Kingdom,23/09/2015,1,0
+Sierra Leone,23/09/2015,13823,3955
+Liberia,23/09/2015,6,2
+Senegal,23/09/2015,1,0
+United States of America,23/09/2015,4,1
+Liberia,23/09/2015,10666,4806
+Mali,23/09/2015,8,6
+Italy,23/09/2015,1,0
+Guinea,23/09/2015,3800,2532
+United Kingdom,24/09/2015,1,0
+Nigeria,24/09/2015,20,8
+Guinea,24/09/2015,3801,2533
+Sierra Leone,24/09/2015,13846,3955
+Liberia,24/09/2015,6,2
+Italy,24/09/2015,1,0
+Liberia,24/09/2015,10666,4806
+Senegal,24/09/2015,1,0
+United States of America,24/09/2015,4,1
+Spain,24/09/2015,1,0
+Mali,24/09/2015,8,6
+Guinea,25/09/2015,3797,2533
+United States of America,25/09/2015,4,1
+Senegal,25/09/2015,1,0
+Sierra Leone,25/09/2015,13855,3955
+Liberia,25/09/2015,10666,4806
+United Kingdom,25/09/2015,1,0
+Mali,25/09/2015,8,6
+Italy,25/09/2015,1,0
+Spain,25/09/2015,1,0
+Liberia,25/09/2015,6,2
+Nigeria,25/09/2015,20,8
+Liberia,28/09/2015,10666,4806
+Spain,28/09/2015,1,0
+Sierra Leone,28/09/2015,13894,3955
+Liberia,28/09/2015,6,2
+United States of America,28/09/2015,4,1
+Mali,28/09/2015,8,6
+Senegal,28/09/2015,1,0
+Italy,28/09/2015,1,0
+Guinea,28/09/2015,3805,2533
+Nigeria,28/09/2015,20,8
+United Kingdom,28/09/2015,1,0
+Sierra Leone,29/09/2015,13911,3955
+Liberia,29/09/2015,6,2
+Liberia,29/09/2015,10666,4806
+United States of America,29/09/2015,4,1
+Spain,29/09/2015,1,0
+Nigeria,29/09/2015,20,8
+Mali,29/09/2015,8,6
+Senegal,29/09/2015,1,0
+Italy,29/09/2015,1,0
+Guinea,29/09/2015,3805,2533
+United Kingdom,29/09/2015,1,0
+United States of America,30/09/2015,4,1
+Mali,30/09/2015,8,6
+Sierra Leone,30/09/2015,13911,3955
+Liberia,30/09/2015,10666,4806
+Italy,30/09/2015,1,0
+Nigeria,30/09/2015,20,8
+Senegal,30/09/2015,1,0
+Guinea,30/09/2015,3805,2533
+Spain,30/09/2015,1,0
+United Kingdom,30/09/2015,1,0
+Liberia,30/09/2015,6,2
+Liberia,01/10/2015,10666,4806
+Italy,01/10/2015,1,0
+United Kingdom,01/10/2015,1,0
+Guinea,01/10/2015,3808,2533
+Mali,01/10/2015,8,6
+United States of America,01/10/2015,4,1
+Spain,01/10/2015,1,0
+Liberia,01/10/2015,6,2
+Nigeria,01/10/2015,20,8
+Sierra Leone,01/10/2015,13928,3955
+Senegal,01/10/2015,1,0
+Senegal,02/10/2015,1,0
+United States of America,02/10/2015,4,1
+Nigeria,02/10/2015,20,8
+Mali,02/10/2015,8,6
+Spain,02/10/2015,1,0
+Guinea,02/10/2015,3809,2533
+Italy,02/10/2015,1,0
+Liberia,02/10/2015,10666,4806
+Liberia,02/10/2015,6,2
+United Kingdom,02/10/2015,1,0
+Sierra Leone,02/10/2015,13931,3955
+Guinea,05/10/2015,3804,2534
+United States of America,05/10/2015,4,1
+United Kingdom,05/10/2015,1,0
+Italy,05/10/2015,1,0
+Liberia,05/10/2015,10666,4806
+Spain,05/10/2015,1,0
+Senegal,05/10/2015,1,0
+Sierra Leone,05/10/2015,13941,3955
+Liberia,05/10/2015,6,2
+Nigeria,05/10/2015,20,8
+Mali,05/10/2015,8,6
+United Kingdom,06/10/2015,1,0
+Liberia,06/10/2015,6,2
+Senegal,06/10/2015,1,0
+Italy,06/10/2015,1,0
+Mali,06/10/2015,8,6
+Spain,06/10/2015,1,0
+Sierra Leone,06/10/2015,13945,3955
+United States of America,06/10/2015,4,1
+Guinea,06/10/2015,3804,2534
+Nigeria,06/10/2015,20,8
+Liberia,06/10/2015,10666,4806
+Guinea,07/10/2015,3804,2534
+Mali,07/10/2015,8,6
+Sierra Leone,07/10/2015,13945,3955
+Nigeria,07/10/2015,20,8
+Liberia,07/10/2015,6,2
+Italy,07/10/2015,1,0
+United States of America,07/10/2015,4,1
+Liberia,07/10/2015,10666,4806
+United Kingdom,07/10/2015,1,0
+Spain,07/10/2015,1,0
+Senegal,07/10/2015,1,0
+Italy,08/10/2015,1,0
+Liberia,08/10/2015,6,2
+Guinea,08/10/2015,3799,2534
+Liberia,08/10/2015,10666,4806
+United Kingdom,08/10/2015,1,0
+Senegal,08/10/2015,1,0
+Nigeria,08/10/2015,20,8
+Mali,08/10/2015,8,6
+United States of America,08/10/2015,4,1
+Sierra Leone,08/10/2015,13956,3955
+Spain,08/10/2015,1,0
+Spain,09/10/2015,1,0
+Nigeria,09/10/2015,20,8
+Sierra Leone,09/10/2015,13957,3955
+United Kingdom,09/10/2015,1,0
+Liberia,09/10/2015,6,2
+Liberia,09/10/2015,10666,4806
+Senegal,09/10/2015,1,0
+United States of America,09/10/2015,4,1
+Italy,09/10/2015,1,0
+Guinea,09/10/2015,3800,2534
+Mali,09/10/2015,8,6
+United Kingdom,13/10/2015,1,0
+Liberia,13/10/2015,10666,4806
+Italy,13/10/2015,1,0
+Sierra Leone,13/10/2015,13982,3955
+Liberia,13/10/2015,6,2
+Nigeria,13/10/2015,20,8
+Spain,13/10/2015,1,0
+Guinea,13/10/2015,3800,2534
+Senegal,13/10/2015,1,0
+United States of America,13/10/2015,4,1
+Mali,13/10/2015,8,6
+United Kingdom,15/10/2015,1,0
+Liberia,15/10/2015,10666,4806
+Senegal,15/10/2015,1,0
+Guinea,15/10/2015,3802,2534
+Mali,15/10/2015,8,6
+Spain,15/10/2015,1,0
+Nigeria,15/10/2015,20,8
+Sierra Leone,15/10/2015,13992,3955
+Italy,15/10/2015,1,0
+Liberia,15/10/2015,6,2
+United States of America,15/10/2015,4,1
+United States of America,16/10/2015,4,1
+Liberia,16/10/2015,10666,4806
+Senegal,16/10/2015,1,0
+Italy,16/10/2015,1,0
+Liberia,16/10/2015,6,2
+Mali,16/10/2015,8,6
+Sierra Leone,16/10/2015,13992,3955
+Guinea,16/10/2015,3804,2535
+Nigeria,16/10/2015,20,8
+Spain,16/10/2015,1,0
+United Kingdom,16/10/2015,1,0
+Italy,20/10/2015,1,0
+Nigeria,20/10/2015,20,8
+Senegal,20/10/2015,1,0
+United States of America,20/10/2015,4,1
+Guinea,20/10/2015,3803,2535
+Sierra Leone,20/10/2015,14001,3955
+United Kingdom,20/10/2015,1,0
+Spain,20/10/2015,1,0
+Liberia,20/10/2015,6,2
+Liberia,20/10/2015,10666,4806
+Mali,20/10/2015,8,6
+Liberia,22/10/2015,6,2
+Spain,22/10/2015,1,0
+Italy,22/10/2015,1,0
+Nigeria,22/10/2015,20,8
+Liberia,22/10/2015,10666,4806
+Sierra Leone,22/10/2015,14031,3955
+United Kingdom,22/10/2015,1,0
+Senegal,22/10/2015,1,0
+Guinea,22/10/2015,3801,2535
+Mali,22/10/2015,8,6
+United States of America,22/10/2015,4,1
+Mali,23/10/2015,8,6
+Nigeria,23/10/2015,20,8
+Senegal,23/10/2015,1,0
+United Kingdom,23/10/2015,1,0
+Guinea,23/10/2015,3801,2535
+Spain,23/10/2015,1,0
+Liberia,23/10/2015,10666,4806
+United States of America,23/10/2015,4,1
+Liberia,23/10/2015,6,2
+Sierra Leone,23/10/2015,14038,3955
+Italy,23/10/2015,1,0
+Sierra Leone,26/10/2015,14052,3955
+Guinea,26/10/2015,3804,2535
+Italy,26/10/2015,1,0
+United Kingdom,26/10/2015,1,0
+United States of America,26/10/2015,4,1
+Senegal,26/10/2015,1,0
+Spain,26/10/2015,1,0
+Liberia,26/10/2015,10666,4806
+Nigeria,26/10/2015,20,8
+Mali,26/10/2015,8,6
+Liberia,26/10/2015,6,2
+Liberia,27/10/2015,6,2
+Mali,27/10/2015,8,6
+Guinea,27/10/2015,3806,2535
+United Kingdom,27/10/2015,1,0
+Sierra Leone,27/10/2015,14061,3955
+Spain,27/10/2015,1,0
+Senegal,27/10/2015,1,0
+Italy,27/10/2015,1,0
+Nigeria,27/10/2015,20,8
+United States of America,27/10/2015,4,1
+Liberia,27/10/2015,10666,4806
+Sierra Leone,29/10/2015,14066,3955
+Nigeria,29/10/2015,20,8
+Guinea,29/10/2015,3808,2536
+Liberia,29/10/2015,6,2
+Italy,29/10/2015,1,0
+United Kingdom,29/10/2015,1,0
+United States of America,29/10/2015,4,1
+Mali,29/10/2015,8,6
+Senegal,29/10/2015,1,0
+Spain,29/10/2015,1,0
+Liberia,29/10/2015,10666,4806
+Senegal,30/10/2015,1,0
+United Kingdom,30/10/2015,1,0
+Nigeria,30/10/2015,20,8
+Italy,30/10/2015,1,0
+Spain,30/10/2015,1,0
+Sierra Leone,30/10/2015,14067,3955
+Liberia,30/10/2015,10666,4806
+Liberia,30/10/2015,6,2
+United States of America,30/10/2015,4,1
+Mali,30/10/2015,8,6
+Guinea,30/10/2015,3808,2536
+Nigeria,03/11/2015,20,8
+Sierra Leone,03/11/2015,14089,3955
+Liberia,03/11/2015,6,2
+United States of America,03/11/2015,4,1
+Mali,03/11/2015,8,6
+Guinea,03/11/2015,3810,2536
+United Kingdom,03/11/2015,1,0
+Liberia,03/11/2015,10666,4806
+Spain,03/11/2015,1,0
+Senegal,03/11/2015,1,0
+Italy,03/11/2015,1,0
+Nigeria,05/11/2015,20,8
+United Kingdom,05/11/2015,1,0
+Mali,05/11/2015,8,6
+Senegal,05/11/2015,1,0
+Liberia,05/11/2015,6,2
+Sierra Leone,05/11/2015,14104,3955
+Italy,05/11/2015,1,0
+Spain,05/11/2015,1,0
+Liberia,05/11/2015,10666,4806
+United States of America,05/11/2015,4,1
+Guinea,05/11/2015,3805,2536
+Italy,06/11/2015,1,0
+United Kingdom,06/11/2015,1,0
+Liberia,06/11/2015,10666,4806
+Sierra Leone,06/11/2015,14109,3955
+United States of America,06/11/2015,4,1
+Liberia,06/11/2015,6,2
+Senegal,06/11/2015,1,0
+Guinea,06/11/2015,3805,2536
+Mali,06/11/2015,8,6
+Spain,06/11/2015,1,0
+Nigeria,06/11/2015,20,8
+United States of America,10/11/2015,4,1
+Nigeria,10/11/2015,20,8
+Guinea,10/11/2015,3805,2536
+Italy,10/11/2015,1,0
+Spain,10/11/2015,1,0
+Liberia,10/11/2015,10666,4806
+Senegal,10/11/2015,1,0
+United Kingdom,10/11/2015,1,0
+Mali,10/11/2015,8,6
+Sierra Leone,10/11/2015,14122,3955
+Liberia,10/11/2015,6,2
+Italy,11/11/2015,1,0
+Guinea,11/11/2015,3805,2536
+United Kingdom,11/11/2015,1,0
+Liberia,11/11/2015,10666,4806
+Sierra Leone,11/11/2015,14122,3955
+Mali,11/11/2015,8,6
+United States of America,11/11/2015,4,1
+Spain,11/11/2015,1,0
+Liberia,11/11/2015,6,2
+Nigeria,11/11/2015,20,8
+Senegal,11/11/2015,1,0
+United States of America,12/11/2015,4,1
+Liberia,12/11/2015,10666,4806
+Senegal,12/11/2015,1,0
+Sierra Leone,12/11/2015,14122,3955
+Spain,12/11/2015,1,0
+Mali,12/11/2015,8,6
+Liberia,12/11/2015,6,2
+Nigeria,12/11/2015,20,8
+Italy,12/11/2015,1,0
+United Kingdom,12/11/2015,1,0
+Guinea,12/11/2015,3805,2536
+Mali,16/11/2015,8,6
+United States of America,16/11/2015,4,1
+Liberia,16/11/2015,6,2
+Sierra Leone,16/11/2015,14122,3955
+Senegal,16/11/2015,1,0
+Liberia,16/11/2015,10666,4806
+Nigeria,16/11/2015,20,8
+Guinea,16/11/2015,3805,2536
+Spain,16/11/2015,1,0
+Italy,16/11/2015,1,0
+United Kingdom,16/11/2015,1,0
+United Kingdom,17/11/2015,1,0
+United States of America,17/11/2015,4,1
+Italy,17/11/2015,1,0
+Liberia,17/11/2015,6,2
+Guinea,17/11/2015,3804,2536
+Sierra Leone,17/11/2015,14122,3955
+Senegal,17/11/2015,1,0
+Liberia,17/11/2015,10666,4806
+Nigeria,17/11/2015,20,8
+Mali,17/11/2015,8,6
+Spain,17/11/2015,1,0
+Liberia,20/11/2015,10666,4806
+Senegal,20/11/2015,1,0
+Guinea,20/11/2015,3804,2536
+Liberia,20/11/2015,6,2
+Sierra Leone,20/11/2015,14122,3955
+Spain,20/11/2015,1,0
+United States of America,20/11/2015,4,1
+Mali,20/11/2015,8,6
+United Kingdom,20/11/2015,1,0
+Nigeria,20/11/2015,20,8
+Italy,20/11/2015,1,0
+United States of America,24/11/2015,4,1
+Mali,24/11/2015,8,6
+Liberia,24/11/2015,6,2
+Nigeria,24/11/2015,20,8
+Senegal,24/11/2015,1,0
+Sierra Leone,24/11/2015,14122,3955
+United Kingdom,24/11/2015,1,0
+Guinea,24/11/2015,3804,2536
+Italy,24/11/2015,1,0
+Spain,24/11/2015,1,0
+Liberia,24/11/2015,10666,4806
+United States of America,26/11/2015,4,1
+Italy,26/11/2015,1,0
+Guinea,26/11/2015,3804,2536
+United Kingdom,26/11/2015,1,0
+Liberia,26/11/2015,9,2
+Spain,26/11/2015,1,0
+Liberia,26/11/2015,10666,4806
+Senegal,26/11/2015,1,0
+Nigeria,26/11/2015,20,8
+Mali,26/11/2015,8,6
+Sierra Leone,26/11/2015,14122,3955
+Nigeria,01/12/2015,20,8
+Italy,01/12/2015,1,0
+Guinea,01/12/2015,3804,2536
+Liberia,01/12/2015,9,2
+Spain,01/12/2015,1,0
+United States of America,01/12/2015,4,1
+Liberia,01/12/2015,10666,4806
+Sierra Leone,01/12/2015,14122,3955
+Senegal,01/12/2015,1,0
+Mali,01/12/2015,8,6
+United Kingdom,01/12/2015,1,0
+Guinea,02/12/2015,3804,2536
+United Kingdom,02/12/2015,1,0
+United States of America,02/12/2015,4,1
+Liberia,02/12/2015,10666,4806
+Spain,02/12/2015,1,0
+Liberia,02/12/2015,9,3
+Sierra Leone,02/12/2015,14122,3955
+Senegal,02/12/2015,1,0
+Mali,02/12/2015,8,6
+Nigeria,02/12/2015,20,8
+Italy,02/12/2015,1,0
+Guinea,03/12/2015,3805,2536
+Liberia,03/12/2015,10666,4806
+Italy,03/12/2015,1,0
+Liberia,03/12/2015,9,3
+Mali,03/12/2015,8,6
+United States of America,03/12/2015,4,1
+United Kingdom,03/12/2015,1,0
+Spain,03/12/2015,1,0
+Nigeria,03/12/2015,20,8
+Sierra Leone,03/12/2015,14122,3955
+Senegal,03/12/2015,1,0
+Guinea,09/12/2015,3804,2536
+United Kingdom,09/12/2015,1,0
+Spain,09/12/2015,1,0
+Italy,09/12/2015,1,0
+Liberia,09/12/2015,10666,4806
+Senegal,09/12/2015,1,0
+United States of America,09/12/2015,4,1
+Liberia,09/12/2015,9,3
+Mali,09/12/2015,8,6
+Sierra Leone,09/12/2015,14122,3955
+Nigeria,09/12/2015,20,8
+Italy,10/12/2015,1,0
+Spain,10/12/2015,1,0
+Nigeria,10/12/2015,20,8
+Liberia,10/12/2015,9,3
+Guinea,10/12/2015,3804,2536
+United Kingdom,10/12/2015,1,0
+United States of America,10/12/2015,4,1
+Mali,10/12/2015,8,6
+Liberia,10/12/2015,10666,4806
+Senegal,10/12/2015,1,0
+Sierra Leone,10/12/2015,14122,3955
+Spain,11/12/2015,1,0
+United States of America,11/12/2015,4,1
+Nigeria,11/12/2015,20,8
+Senegal,11/12/2015,1,0
+Guinea,11/12/2015,3804,2536
+Mali,11/12/2015,8,6
+United Kingdom,11/12/2015,1,0
+Liberia,11/12/2015,9,3
+Italy,11/12/2015,1,0
+Sierra Leone,11/12/2015,14122,3955
+Liberia,11/12/2015,10666,4806
+Sierra Leone,15/12/2015,14122,3955
+United States of America,15/12/2015,4,1
+Mali,15/12/2015,8,6
+Spain,15/12/2015,1,0
+Italy,15/12/2015,1,0
+Guinea,15/12/2015,3807,2536
+Senegal,15/12/2015,1,0
+Nigeria,15/12/2015,20,8
+Liberia,15/12/2015,9,3
+United Kingdom,15/12/2015,1,0
+Liberia,15/12/2015,10666,4806
+Spain,16/12/2015,1,0
+Mali,16/12/2015,8,6
+Guinea,16/12/2015,3807,2536
+United Kingdom,16/12/2015,1,0
+Italy,16/12/2015,1,0
+United States of America,16/12/2015,4,1
+Nigeria,16/12/2015,20,8
+Senegal,16/12/2015,1,0
+Liberia,16/12/2015,10666,4806
+Sierra Leone,16/12/2015,14122,3955
+Liberia,16/12/2015,9,3
+Liberia,17/12/2015,9,3
+Nigeria,17/12/2015,20,8
+Spain,17/12/2015,1,0
+Liberia,17/12/2015,10666,4806
+Mali,17/12/2015,8,6
+United Kingdom,17/12/2015,1,0
+Sierra Leone,17/12/2015,14122,3955
+Guinea,17/12/2015,3805,2536
+Italy,17/12/2015,1,0
+Senegal,17/12/2015,1,0
+United States of America,17/12/2015,4,1
+Nigeria,22/12/2015,20,8
+Guinea,22/12/2015,3804,2536
+Senegal,22/12/2015,1,0
+Liberia,22/12/2015,9,3
+Spain,22/12/2015,1,0
+Mali,22/12/2015,8,6
+Sierra Leone,22/12/2015,14122,3955
+United Kingdom,22/12/2015,1,0
+Italy,22/12/2015,1,0
+United States of America,22/12/2015,4,1
+Liberia,22/12/2015,10666,4806
+United Kingdom,23/12/2015,1,0
+Italy,23/12/2015,1,0
+Guinea,23/12/2015,3804,2536
+Senegal,23/12/2015,1,0
+Liberia,23/12/2015,10666,4806
+Spain,23/12/2015,1,0
+Mali,23/12/2015,8,6
+Sierra Leone,23/12/2015,14122,3955
+Liberia,23/12/2015,9,3
+Nigeria,23/12/2015,20,8
+United States of America,23/12/2015,4,1
+United Kingdom,29/12/2015,1,0
+Italy,29/12/2015,1,0
+Spain,29/12/2015,1,0
+Liberia,29/12/2015,10666,4806
+Liberia,29/12/2015,9,3
+Sierra Leone,29/12/2015,14122,3955
+Mali,29/12/2015,8,6
+Guinea,29/12/2015,3804,2536
+United States of America,29/12/2015,4,1
+Nigeria,29/12/2015,20,8
+Senegal,29/12/2015,1,0
+Guinea,23/03/2016,3804,2536
+Spain,23/03/2016,1,0
+Sierra Leone,23/03/2016,14122,3955
+Senegal,23/03/2016,1,0
+Mali,23/03/2016,8,6
+United Kingdom,23/03/2016,1,0
+Liberia,23/03/2016,9,3
+Liberia,23/03/2016,10666,4806
+Italy,23/03/2016,1,0
+Liberia,23/03/2016,5,4
+Nigeria,23/03/2016,20,8
+United States of America,23/03/2016,4,1
