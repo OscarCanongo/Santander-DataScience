@@ -3,6 +3,7 @@ setwd("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y ana
 h1n1=read.csv("H1N1.csv")
 covid=read.csv("Covid.csv")
 ebola=read.csv("ebola_2014_2016_clean.csv")
+covid1=read.csv("coronavirus.csv")
 
 #df_mapaCovid<- st_read("C:/Users/Andrés/Documents/GitHub/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
 #df_mapaH1N1<- st_read("C:/Users/Andrés/Documents/GitHub/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
@@ -90,4 +91,16 @@ p1=ggplot()+geom_line(data=ck,aes(nth_day,Países,group=pandemia,colour=pandemia)
   geom_line(data=ek,aes(nth_day,Países,group=pandemia,colour=pandemia))+
   geom_line(data=hk,aes(nth_day,Países,group=pandemia,colour=pandemia))
 p1+ggtitle("Países infectados en los primeros 100 dias")
-
+vd=gsub(",","",covid1$deaths)
+vd=as.integer(vd)
+class(vd)
+cm=sum(vd, na.rm = T)
+em=sum(ebolaf$Muertes, na.rm=T)
+hm=sum(h_dbd$Muertes, na.rm = T)
+df=data.frame(day=c(cm,em,hm),Pandemia=c("Covid","Ebola","H1N1"))
+p<-ggplot(data=df, aes(x=Pandemia, y=day, fill=Pandemia)) +
+  geom_bar(stat="identity",width = .5)+theme_minimal()+
+  geom_text(aes(label=day, vjust=1, size=5))+
+  labs(x="Pandemia",y="Número de muertes",title='Número de muertes reportadas')+
+  theme_bw()
+p + coord_flip()
