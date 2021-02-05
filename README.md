@@ -71,7 +71,7 @@ _Para observar de fotma aun mas detallada y precisa para observar que paises son
 
 <img src="./images/casos_covid19.png" alt="Tree map de casos de covid" width="650"/>
 
-### <img src="./images/influenzah1h1.jpg" alt="H1N1" width="80"/> Analisis de la Pandemia Influenza H1N1
+### <img src="./images/influenzah1n1.jpg" alt="H1N1" width="80"/> Analisis de la Pandemia Influenza H1N1
 
 _El influenza virus A subtipo H1N1, más conocido como A H1N1 humana, es una especie de influenzavirus tipo A del virus de la gripe, perteneciente a la familia de los Orthomyxoviridae._
 
