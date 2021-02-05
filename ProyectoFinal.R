@@ -1,7 +1,7 @@
 #Poner ruta propia
-covid <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/coronavirus.csv")
-h1n1 <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/H1N1.csv")
-ebola <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/ebola.csv")
+covid <- read.csv("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/Data/Covid.csv")
+h1n1 <- read.csv("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/Data/H1N1.csv")
+ebola <- read.csv("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/Data/ebola.csv")
 
 #Cargar las librerias
 install.packages("data.table")
@@ -25,9 +25,9 @@ Coronavirus <- COVID %>%
                  summarise(totales = sum(casos)       # Sumamos los casos totales
                )
 
-df_mapa<- st_read("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
-df_mapaH1N1<- st_read("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
-df_mapaEbola<- st_read("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
+df_mapa<- st_read("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
+df_mapaH1N1<- st_read("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
+df_mapaEbola<- st_read("Documentos Daniel/Data Analysis (Santander)/Curso estadistica con R y analisis con Python/Poryecto Final Con R/Santander-DataScience/shp_mapa_paises_mundo_2014/Paises_Mundo.shp")
 
 df_mapa %>%
   ggplot() + # Crea un objeto ggplot a partir del objeto mex_map
