@@ -84,9 +84,10 @@ hk=filter(h_dbd,nth_day<=73)
 p=ggplot()+geom_line(data=ck,aes(nth_day,Casos,group=pandemia,colour=pandemia))+
   geom_line(data=ek,aes(nth_day,Casos,group=pandemia,colour=pandemia))+
   geom_line(data=hk,aes(nth_day,Casos,group=pandemia,colour=pandemia))
-p
+p+ggtitle("Casos en los primeros 100 dias")
 
 p1=ggplot()+geom_line(data=ck,aes(nth_day,Países,group=pandemia,colour=pandemia))+
   geom_line(data=ek,aes(nth_day,Países,group=pandemia,colour=pandemia))+
   geom_line(data=hk,aes(nth_day,Países,group=pandemia,colour=pandemia))
-p1
+p1+ggtitle("Países infectados en los primeros 100 dias")
+
