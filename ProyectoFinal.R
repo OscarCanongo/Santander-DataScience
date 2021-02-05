@@ -1,5 +1,5 @@
 #Poner ruta propia
-covid <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/Covid.csv")
+covid <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/coronavirus.csv")
 h1n1 <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/H1N1.csv")
 ebola <- read.csv("C:/Users/end user/OneDrive/Escritorio/Santander-DataScience/Data/ebola.csv")
 
