@@ -1,5 +1,5 @@
 #proyecto final R analisis del H1N1
-setwd("C:/Users/Andrés/Documents/bedu/rdata/pf")
+setwd("C:/Users/Andrés/Documents/bedu/rdata/pf/datospf")
 h1n1=read.csv("H1N1.csv")
 covid=read.csv("Covid.csv")
 ebola=read.csv("ebola_2014_2016_clean.csv")
@@ -47,7 +47,7 @@ names(casos[1])
 Países=c(colSums(casos[2:362] != 0))
 Casos=c(colSums(casos[2:362]))
 covidf=structure(list(Fecha,Países,Casos), .Names = c("Fecha", "Países","Casos"), class = "data.frame", row.names = c(NA, -361L))
-covidf$pandemia<-c("Ebola")         
+covidf$pandemia<-c("Covid")         
 covidf$nth_day<-(covidf$Fecha-min(covidf$Fecha))
 max(covidf$Países)
 max(ebolaf$Países,na.rm = T)
@@ -79,8 +79,14 @@ p<-ggplot(data=df, aes(x=Pandemia, y=day, fill=Pandemia)) +
 p + coord_flip()
 
 ck=filter(covidf,nth_day<=100)
-ek=filter(ebolaf,nth_day<=100)
+ek=filter(ebolaf,nth_day<=105)
 hk=filter(h_dbd,nth_day<=73)
-head(ck)
-head(ek)
-head(hk)
+p=ggplot()+geom_line(data=ck,aes(nth_day,Casos,group=pandemia,colour=pandemia))+
+  geom_line(data=ek,aes(nth_day,Casos,group=pandemia,colour=pandemia))+
+  geom_line(data=hk,aes(nth_day,Casos,group=pandemia,colour=pandemia))
+p
+
+p1=ggplot()+geom_line(data=ck,aes(nth_day,Países,group=pandemia,colour=pandemia))+
+  geom_line(data=ek,aes(nth_day,Países,group=pandemia,colour=pandemia))+
+  geom_line(data=hk,aes(nth_day,Países,group=pandemia,colour=pandemia))
+p1
