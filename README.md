@@ -123,6 +123,23 @@ _Para explicar mejor esto, se realizo un grafico del numero de paises afectados 
 
 <img src="./images/paises_infectados.png" alt="Grafico del numero de paises infectados por cada pandemia" width="650"/>
 
+_Finalmente, se puede análizar la rapidez con la que cada virus se propago y se propaga aun, con estos datos podemos prececir su comportamiento y las medidas que se pueden o se tuvieron que tomar para prevenir un contagio masivo como lo pudimos observar en algunos paises incluyendo México._
+
+_Este análisis comienza con el numero de casos que cada pandemia tuvo en los primeros 100 dias. A continuación se muestra el grafico que representa lo antes dicho:_
+
+<img src="./images/casos_primeros_100dias.png" alt="Grafico del numero de casos en los primeros 100 dias de cada pandemia" width="650"/>
+
+_También se puede determinar el numero de paises que cada pandemia afecto en los primeros 100 dias, con esta información de igual forma se puede concluir que los paises que fueron afectados en estos primeros dias fue donde se origino y principalmente los paises que se encontraban al rededor de el origen de cada virus, pero el numero es importante ya que nos habla de la velocidad con la que se expandio a un nivel global_
+
+* _Grafico que representa lo anteriormente dicho:_
+
+<img src="./images/paises_infectados_en100dias.png" alt="Grafico del numero de paises infectados en los primeros 100 dias" width="650"/>
+
+_Para concluir y determinar que pandemia tuvo mas impacto tanto por su porcentage de letalidad, como su velocidad de propagación, se muestra un grafico con los dias que pasaron para llegar a 1000 casos en cada pandemia._
+
+<img src="./images/dias_para_1000_casos.png" alt="Grafico del numero de dias para llegar a 1000 casos en cada pandemia" width="650"/>
+
+_Todo este análisis nos hizo reflexionar en lo rapido que pueden cambiar muchas cosas que soliamos hacer comunmente y como en tan poco tiempo muchas personas contrajeron estas enfermedades, de igual manera como es que todo esto influyo en muchisimos ambitos tales como la economía, la tecnología, entre muchos más. Nos da un verdadero panorama de lo fragil e inestable que el ser humano y con la ayuda del análisis de datos podremos generar una herramienta para ayudar a prevenir que todo crezca más o prevenir futuras pandemias, saber como afrontarlas para disminuir en lo más minimo la perdida de vidas humanas._
 
 ## Autores ✒️
 
