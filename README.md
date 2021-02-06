@@ -15,7 +15,7 @@ _Puedes descargar el repositorio y consultar el codigo en lenguaje de programaci
 
 ### Pre-requisitos 📋
 
-_Para poder observar en analisis, graficas y datos que se presentan en este proyecto, debes tener instalado el lñegunaje de programación R en tu ordenador, asi como cuañquier IDE que pueda soportar este lenguaje, te recomendamos "RStudio"_
+_Para poder observar en analisis, graficas y datos que se presentan en este proyecto, debes tener instalado el lenguaje de programación R en tu ordenador, asi como cuañquier IDE que pueda soportar este lenguaje, te recomendamos "RStudio"_
 
 _De igual forma debes se debe tener encuenta que se ocuparon data-sets de paginas como Kaggle, asi que es de suma iimportancia tener descargados estos data-sets para apreciar el analisis completo_
 
@@ -63,11 +63,11 @@ _El o la COVID-19 (acrónimo del inglés coronavirus disease 2019), covid-19 o c
 
 _Produce síntomas similares a los de la gripe o catarro, entre los que se incluyen fiebre, tos,​ disnea, mialgia y fatiga. En casos graves se caracteriza por producir neumonía, síndrome de dificultad respiratoria aguda,15​ sepsis16​ y choque séptico que conduce a cerca de 3,75 % de los infectados a la muerte según la OMS.No existe tratamiento específico; las medidas terapéuticas principales consisten en aliviar los síntomas y mantener las funciones vitales._
 
-_El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
+* _El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
 
 <img src="./images/map_covid.png" alt="Mapa de casos de covid19 nivel mundial" width="650"/>
 
-_Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+* _Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
 
 <img src="./images/casos_covid19.png" alt="Tree map de casos de covid" width="650"/>
 
@@ -79,11 +79,11 @@ _El H1N1 ha mutado en diversos subtipos que incluyen la gripe española (la de m
 
 _Desde mediados de marzo de 2009, al menos 900 casos mortales han ocurrido en toda Europa y América por la pandemia de una cepa novedosa de H1N1, al menos otras 1000 muertes en México aún no están oficialmente confirmadas como casos de influenza H1N1, en el año 2013 y 2014 el gobierno de México dio la noticia de los nuevos casos de esta cepa del virus._
 
-_El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
+* _El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
 
 <img src="./images/map_h1n1.png" alt="Mapa de casos de influenza H1N1 nivel mundial" width="650"/>
 
-_Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+* _Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
 
 <img src="./images/casos_h1n1.png" alt="Tree map de casos de H1N1" width="650"/>
 
@@ -94,11 +94,11 @@ _El virus del Ébola1​ (Ebolavirus)​ es un género de virus de la familia Fi
 
 _Este nombre proviene del río Ébola (en la República Democrática del Congo, antigua Zaire), donde fue identificado por primera vez en 1976 durante una epidemia con elevada tasa de mortalidad._
 
-_El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
+* _El primer análisis que podemos hacer sobre esta enfermedad es los casos totales que se tienen en todo el mundo, especificando estos datos en un mapa mundial para una mejor apreciación_
 
 <img src="./images/map_ebola.png" alt="Mapa de casos de Ebola a nivel mundial" width="650"/>
 
-_Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
+* _Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
 
 <img src="./images/casos_ebola.png" alt="Tree map de casos de Ebola" width="650"/>
 
@@ -107,11 +107,21 @@ _Para observar de forma aun mas detallada y precisa para observar que paises son
 
 _Con toda la información obtenida anteriormente, se puede hacer un análisis mas profundo entre las tres pandemias y poder realizar una hipótesis sobre alguna posible causa o inclusive es muy facil determinar que los paises mayormente poblados son los que más afectaciones tienen en este tipo de pandemias, tal es el caso de México, esto depende de muchas otras cuestiones como la población o manejo de estas situaciones como paies particular, pero hablando en un ambito general, esto es un pequeño ejemplo de los análisis a los que podemos llegar con toda la información que se recopilo en este proyecto_
 
-_Para iniciar, podemos determinar el origen de cada pandemia en los ultimos años, esto es, donde se registro el primer caso, tal como se muestra a continuación:_
+* _Para iniciar, podemos determinar el origen de cada pandemia en los ultimos años, esto es, donde se registro el primer caso, tal como se muestra a continuación:_
 
 <img src="./images/origen_pandemias.png" alt="Mapa de origen de las pandemias en los ultimos años" width="750"/>
 
-_Para observarlo de una menera interactiva, da click [aquí](https://rpubs.com/Danielchon13/MapaOrigenes)_
+* _Para observarlo de una menera interactiva, da click [aquí](https://rpubs.com/Danielchon13/MapaOrigenes)_
+
+_Un análisis rapido que se puede hacer, es la comparación entre los casos totales de cada pandemia anteriormente explicada, tal y como se muestra a continuación:_
+
+<img src="./images/casos_acumulados.png" alt="Grafico de los casos acumulados de las 3 pandemias" width="550"/>
+
+_Con lo anteriormente mostrado se puede deducir que la pandemia que mayor casos acumulados es Covid-19, esto es por su alto porcentage de propagación e infección, así como factores tales como la globalización, esto es, en la actualidad los seres humanos estamos en constante movimiento, de un lugar a otro y de un pais a otro, esto facilita aun mas la propagación de este tipo de virus al resto del mundo._
+
+_Para explicar mejor esto, se realizo un grafico del numero de paises afectados por cada pandemia, tal y como se muestra a continuación:_
+
+<img src="./images/paises_infectados.png" alt="Grafico del numero de paises infectados por cada pandemia" width="650"/>
 
 
 ## Autores ✒️
