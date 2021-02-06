@@ -1,6 +1,6 @@
 # Equipo 24 proyecto final
 
-# Analisis de gravedad y letalidad de diversas pandemias a lo largo de la historia
+# Análisis de gravedad y letalidad de diversas pandemias a lo largo de la historia
 
 _Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma importancia analisar algunos detalles que han influenciado que esta pandemia y otras mas a lo largo de la historia han afectado a la humanidad y que relacion tienen entre ellas._
 
@@ -55,7 +55,7 @@ _Con todo lo anterior contemplado, se puede correr el codigo y observar el anali
 
 ## Desarrollo y Análisis de 3 enfermedades que han afectado a la humanidad en los ultimos 20 años ⚙️
 
-### <img src="./images/covid19.jpg" alt="Covid-19" width="80"/> Analisis de la Pandemia Covid-19
+### <img src="./images/covid19.jpg" alt="Covid-19" width="80"/> Análisis de la Pandemia Covid-19 ⚙️
 
 _El principal enfoque del proyecto se basa en la comparacion de la actual pandemia Covid-19 respecto a otras graves enfermemdades, tanto en letalidad, alcance, afectaciones a la sociedad, entre muchos otros factores que se pueden analizar y asi poder entender su comportamiento, así como, el tiempo que tardo en propagarse a todo el mundo o la mayor parte de el y que paises fueron los mas afectos_
 
@@ -71,7 +71,7 @@ _Para observar de forma aun mas detallada y precisa para observar que paises son
 
 <img src="./images/casos_covid19.png" alt="Tree map de casos de covid" width="650"/>
 
-### <img src="./images/influenzah1n1.jpg" alt="H1N1" width="80"/> Analisis de la Pandemia Influenza H1N1
+### <img src="./images/influenzah1n1.jpg" alt="H1N1" width="80"/> Análisis de la Pandemia Influenza H1N1 ⚙️
 
 _El influenza virus A subtipo H1N1, más conocido como A H1N1 humana, es una especie de influenzavirus tipo A del virus de la gripe, perteneciente a la familia de los Orthomyxoviridae._
 
@@ -88,7 +88,7 @@ _Para observar de forma aun mas detallada y precisa para observar que paises son
 <img src="./images/casos_h1n1.png" alt="Tree map de casos de H1N1" width="650"/>
 
 
-### <img src="./images/ebola.jpg" alt="Ebola" width="80"/> Analisis de la Pandemia Ebola
+### <img src="./images/ebola.jpg" alt="Ebola" width="80"/> Análisis de la Pandemia Ebola ⚙️
 
 _El virus del Ébola1​ (Ebolavirus)​ es un género de virus de la familia Filoviridae que se detectó por primera vez en algunas regiones de África. La enfermedad que produce una fiebre hemorrágica viral de la misma categoría que la fiebre de Marburg, la fiebre de Lassa y la fiebre del dengue. Es el patógeno causante de la enfermedad del Ébola, una enfermedad infecciosa muy grave que afecta a los seres humanos._
 
@@ -101,6 +101,17 @@ _El primer análisis que podemos hacer sobre esta enfermedad es los casos totale
 _Para observar de forma aun mas detallada y precisa para observar que paises son los que más casos de covid tienen, de realizo un Tree Map_
 
 <img src="./images/casos_ebola.png" alt="Tree map de casos de Ebola" width="650"/>
+
+
+## Comparación y Análisis de las 3 pandemias ⚙️
+
+_Con toda la información obtenida anteriormente, se puede hacer un análisis mas profundo entre las tres pandemias y poder realizar una hipótesis sobre alguna posible causa o inclusive es muy facil determinar que los paises mayormente poblados son los que más afectaciones tienen en este tipo de pandemias, tal es el caso de México, esto depende de muchas otras cuestiones como la población o manejo de estas situaciones como paies particular, pero hablando en un ambito general, esto es un pequeño ejemplo de los análisis a los que podemos llegar con toda la información que se recopilo en este proyecto_
+
+_Para iniciar, podemos determinar el origen de cada pandemia en los ultimos años, esto es, donde se registro el primer caso, tal como se muestra a continuación:_
+
+<img src="./images/origen_pandemias.png" alt="Mapa de origen de las pandemias en los ultimos años" width="750"/>
+
+_Para observarlo de una menera interactiva, da click [aquí]()_
 
 
 ## Autores ✒️
