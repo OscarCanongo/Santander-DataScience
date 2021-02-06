@@ -111,7 +111,7 @@ _Para iniciar, podemos determinar el origen de cada pandemia en los ultimos año
 
 <img src="./images/origen_pandemias.png" alt="Mapa de origen de las pandemias en los ultimos años" width="750"/>
 
-_Para observarlo de una menera interactiva, da click [aquí]()_
+_Para observarlo de una menera interactiva, da click [aquí](https://rpubs.com/Danielchon13/MapaOrigenes)_
 
 
 ## Autores ✒️
