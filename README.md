@@ -143,7 +143,7 @@ _Todo este análisis nos hizo reflexionar en lo rapido que pueden cambiar muchas
 
 ## Autores ✒️
 
-_Este proyecto fue realizado por el equipo 24 del programa Santander-DataScience, cuyos sintegrantes son:_
+_Este proyecto fue realizado por el equipo 24 del programa Santander-DataScience, cuyos integrantes son:_
 
 - **Oscar Cañongo** - \*\* - [OscarCanongo](https://github.com/OscarCanongo)
 - **Andres** - \*\* - [andresam0301](https://github.com/andresam0301)
