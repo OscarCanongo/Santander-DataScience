@@ -88,7 +88,7 @@ _Desde mediados de marzo de 2009, al menos 900 casos mortales han ocurrido en to
 <img src="./images/casos_h1n1.png" alt="Tree map de casos de H1N1" width="650"/>
 
 
-### <img src="./images/ebola.jpg" alt="Ebola" width="80"/> Análisis de la Pandemia Ebola ⚙️
+### <img src="./images/ebola.jpg" alt="Ebola" width="80"/> Análisis de la Epidemia de Ebola ⚙️
 
 _El virus del Ébola1​ (Ebolavirus)​ es un género de virus de la familia Filoviridae que se detectó por primera vez en algunas regiones de África. La enfermedad que produce una fiebre hemorrágica viral de la misma categoría que la fiebre de Marburg, la fiebre de Lassa y la fiebre del dengue. Es el patógeno causante de la enfermedad del Ébola, una enfermedad infecciosa muy grave que afecta a los seres humanos._
 
@@ -103,7 +103,7 @@ _Este nombre proviene del río Ébola (en la República Democrática del Congo, 
 <img src="./images/casos_ebola.png" alt="Tree map de casos de Ebola" width="650"/>
 
 
-## Comparación y Análisis de las 3 pandemias ⚙️
+## Comparación y Análisis de las 3 enfermedades ⚙️
 
 _Con toda la información obtenida anteriormente, se puede hacer un análisis más profundo entre las tres pandemias y poder realizar una hipótesis sobre alguna posible causa o inclusive es muy fácil determinar que los países mayormente poblados son los que más afectaciones tienen en este tipo de pandemias, tal es el caso de México, esto depende de muchas otras cuestiones como la población o manejo de estas situaciones como país particular, pero hablando en un ámbito general, esto es un pequeño ejemplo de los análisis a los que podemos llegar con toda la información que se recopilo en este proyecto_
 
