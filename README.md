@@ -1,6 +1,6 @@
 # Equipo 24 proyecto final
 
-# Análisis de gravedad y letalidad de diversas pandemias a lo largo de la historia
+# Análisis de gravedad y letalidad de diversas pandemias y epidemias a lo largo de la historia
 
 _Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma importancia analizar algunos detalles que han influenciado que esta pandemia y otras más a lo largo de la historia han afectado a la humanidad y que relación tienen entre ellas._
 
