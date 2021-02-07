@@ -137,7 +137,7 @@ _También se puede determinar el número de países que cada pandemia afecto en 
 
 _Para concluir y determinar que pandemia tuvo más impacto tanto por su porcentaje de letalidad, como su velocidad de propagación, se muestra un gráfico con los días que pasaron para llegar a 1000 casos en cada pandemia._
 
-<img src="./images/dias_para_1000_casos.png" alt="Grafico del numero de dias para llegar a 1000 casos en cada pandemia" width="650"/>
+<img src="./images/pandemias.png" alt="Grafico del numero de dias para llegar a 1000 casos en cada pandemia" width="650"/>
 
 _Todo este análisis nos hizo reflexionar en lo rápido que pueden cambiar muchas cosas que solíamos hacer comúnmente y como en tan poco tiempo muchas personas contrajeron estas enfermedades, de igual manera como es que todo esto influyo en muchísimos ámbitos tales como la economía, la tecnología, entre muchos más. Nos da un verdadero panorama de lo frágil e inestable que el ser humano y con la ayuda del análisis de datos podremos generar una herramienta para ayudar a prevenir que todo crezca más o prevenir futuras pandemias, saber cómo afrontarlas para disminuir en lo más mínimo la pérdida de vidas humanas._
 
