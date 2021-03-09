@@ -148,3 +148,4 @@ _Este proyecto fue realizado por el equipo 24 del programa Santander-DataScience
 - **Oscar Cañongo** - \*\* - [OscarCanongo](https://github.com/OscarCanongo)
 - **Andres** - \*\* - [andresam0301](https://github.com/andresam0301)
 - **Daniel Arellano** - \*\* - [Tachuelin](https://github.com/Tachuelin)
+- **Miguel Toledo** - \*\* -[josemigueltr](https://github.com/josemigueltr)
